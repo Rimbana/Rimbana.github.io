@@ -35,4 +35,6 @@
   "unity_interstitial": "Interstitial_Android",
 
   "applovin_sdk_key": "",
-  "applovin_banner_id
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+}
