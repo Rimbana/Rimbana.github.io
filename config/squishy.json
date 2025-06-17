@@ -28,5 +28,9 @@
   
   "unity_id": "",
   "unity_banner": "",
-  "unity_interstitial": ""
+  "unity_interstitial": "",
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+
 }
