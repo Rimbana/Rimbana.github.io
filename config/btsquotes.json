@@ -1,0 +1,36 @@
+{
+  "username": "chichijaya3",
+  "new_username": "chichijaya3/btsquotes",
+  "section_mode": true,
+  "album": [
+    "bts"
+  ],
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-7158609722408276/1070489143",
+  "admob_interstitial_id": "ca-app-pub-7158609722408276/5704718784",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-7158609722408276/2239551848",
+
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
+  
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 5,
+
+  "list_ads": [
+      "ADMOB"
+  ],
+  
+  "unity_id": "",
+  "unity_banner": "",
+  "unity_interstitial": "",
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+
+}
