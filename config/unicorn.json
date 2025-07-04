@@ -20,7 +20,7 @@
 
   "startapp_app_id": "12345677890",
 
-  "interstitial_inverval": 5,
+  "interstitial_inverval": 3,
 
   "list_ads": [
    "ADMOB",
@@ -29,7 +29,7 @@
 
   ],
 
-  "unity_id": "123456789",
+  "unity_id": "5120161",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
