@@ -23,12 +23,13 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+       "UNITY",
   ],
   
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
+  "unity_id": "4828559",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
   "applovin_sdk_key": "",
   "applovin_banner_id":"",
   "applovin_inter_id":""
