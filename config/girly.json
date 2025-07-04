@@ -23,10 +23,11 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+      "UNITY"
   ],
   
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": ""
+  "unity_id": "4875419",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
 }
