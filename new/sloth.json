@@ -5,7 +5,7 @@
   "album": [
     "sloth"
   ],
-  "init_jumlah_photo": 250,
+  "init_jumlah_photo": 200,
   "admob_banner_id": "ca-app-pub-4463463911232315/8662752715",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/1999812453",
   "admob_native_id": "",
@@ -23,9 +23,8 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-   "ADMOB"
-
-
+   "ADMOB",
+    "UNITY"
   ],
 
   "unity_id": "5120161",
