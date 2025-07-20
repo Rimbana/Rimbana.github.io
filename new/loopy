@@ -1,0 +1,37 @@
+{
+  "username": "chichijaya3",
+  "new_username": "chichijaya3/zanmang",
+  "section_mode": true,
+  "album": [
+    "zanmang"
+  ],
+  "init_jumlah_photo": 250,
+  "admob_banner_id": "ca-app-pub-4463463911232315/5349768639",
+  "admob_interstitial_id": "ca-app-pub-4463463911232315/3210033913",
+  "admob_native_id": "",
+  "admob_rewarded_interstitial_id": "",
+  "admob_open_app_id": "ca-app-pub-4463463911232315/1896952246",
+
+  "admob_hpk_1": "purple",
+  "admob_hpk_2": "bts",
+  "admob_hpk_3": "kpop",
+  "admob_hpk_4": "insurance",
+  "admob_hpk_5": "bank jago",
+  
+  "startapp_app_id": "",
+  
+  "interstitial_inverval": 3,
+
+  "list_ads": [
+      "ADMOB",
+      "UNITY"
+  ],
+  
+  "unity_id": "4828553",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "applovin_sdk_key": "",
+  "applovin_banner_id":"",
+  "applovin_inter_id":""
+
+}
