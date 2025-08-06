@@ -27,9 +27,10 @@
       "UNITY"
   ],
   
-  "unity_id": "4828559",
+  "unity_id": "4828560",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
+
   "applovin_sdk_key": "",
   "applovin_banner_id":"",
   "applovin_inter_id":""
