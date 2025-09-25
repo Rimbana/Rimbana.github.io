@@ -149,26 +149,7 @@
           </form>
         </div>
 
-        <div class="card messenger" aria-label="Demo messenger simulator">
-          <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">
-            <div style="width:44px;height:44px;border-radius:8px;background:linear-gradient(135deg,#ff7aa2,#7cc4ff);display:flex;align-items:center;justify-content:center;font-weight:700;color:#071022">B</div>
-            <div>
-              <strong>BTS Chat — Demo</strong>
-              <div style="font-size:13px;color:var(--muted)">Message simulation — demo only</div>
-            </div>
-          </div>
-
-          <div class="msg-window" id="msgWindow">
-            <div class="bubble bot">Hi! How can we help you today?</div>
-            <div class="bubble you">Hello, how do I use the simulator feature?</div>
-            <div class="bubble bot">Just choose a mode, type a message, and see the auto demo reply.</div>
-          </div>
-
-          <div class="compose">
-            <input id="composeInput" placeholder="Type a message..." />
-            <button id="sendBtn" class="btn">Send</button>
-          </div>
-        </div>
+        
 
         <div class="card">
           <strong>Support Hours</strong>
@@ -217,34 +198,5 @@
 
 
 
-<!-- README.md -->
 
-# BTS CHAT - Messenger Simulator (Support Page)
-
-This repository contains a single-file static support website (`index.html`) ready to be published to GitHub Pages or any static host.
-
-## Features
-- Searchable support articles list
-- FAQ accordion
-- Contact form (Formspree example)
-- Small demo "messenger simulator" UI on the right
-- Responsive, single-file HTML/CSS/JS (no build step)
-
-## How to deploy to GitHub Pages
-1. Create a new GitHub repository (public or private). Example: `bts-chat-support`.
-2. Add `index.html` to the repository root and commit.
-3. Push to GitHub.
-4. In the repository settings -> Pages, choose branch `main` (or `gh-pages`) and root `/` as the folder. Save.
-5. GitHub will provide a URL like `https://<your-username>.github.io/<repo>/`.
-
-## Quick customization
-- Replace `support@yourdomain.example` and the Formspree action URL with your real contact details.
-- Edit article blocks inside the `#articles` container.
-- Change colors by editing CSS variables at the top of the `<style>`.
-
-## Notes & next steps
-- If you want server-side contact handling (saving tickets), you'll need a backend or an integration (Formspree, Netlify Forms, or Zapier).
-- If you want the messenger simulator to be interactive with real AI replies, we can add an API proxy to call OpenAI or another model (requires server & API key).
-
----
 
