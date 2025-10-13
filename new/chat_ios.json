@@ -2,7 +2,8 @@
   "Ads": {
     "banner": "ca-app-pub-4463463911232315/5146106468",
     "interstitial": "ca-app-pub-4463463911232315/9348349004",
-    "appOpenAd": ""
+    "appOpenAd": "",
+    "rewardedAds": "ca-app-pub-3940256099942544/5224354917"
   },
   "Interval": 3,
   "More": [
