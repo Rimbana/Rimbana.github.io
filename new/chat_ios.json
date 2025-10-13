@@ -750,680 +750,110 @@
         ],
         "answer": ["youu", "justin bieber LOL"]
       }
+    ],
+    [
+  {
+    "ask": [
+      [
+        "Hey, yn! What are you up to today?",
+        "Just finished practice, and somehow you popped into my head.",
+        "What are you busy with right now?"
+      ]
+    ],
+    "answer": [
+      "OMG, Oppa! I'm so shocked! I'm doing fine, just chilling on my bed scrolling through your posts, hehe.",
+      "I'm good! I'm rewatching one of your legendary fancams, Oppa! How are you, aren't you tired from practice?"
     ]
-  ],
-
-  "chat_rus": [
-    [
-      {
-        "ask": [
-          [
-            "Привет, yn! Чем занимаешься сегодня?",
-            "Только что закончил тренировку, и почему-то подумал о тебе.",
-            "Чем ты сейчас занята?"
-          ]
-        ],
-        "answer": [
-          "ОМГ, оппа! Я так удивлена! У меня все хорошо, просто лежу в кровати и просматриваю твои посты, хе-хе.",
-          "У меня все хорошо! Пересматриваю один из твоих легендарных фанкамов, оппа! Как ты, не устал от тренировки?"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "Хорошо, что у тебя все в порядке. У меня тоже неплохо, только немного болят мышцы.",
-            "Какой именно фанкам? Тот, что с последнего концерта, верно?",
-            "Кстати, как прошел твой день?"
-          ],
-          [
-            "Немного устал, да, но снова набрался энергии, подумав о тебе. Хе-хе.",
-            "Что-нибудь веселое или интересное случилось у тебя сегодня?"
-          ]
-        ],
-        "answer": [
-          "Тот самый, оппа! Боже, ты просто совершенство! Мой день прошел довольно хорошо, просто ходила в колледж.",
-          "Было очень весело, оппа! Я встретилась с другими друзьями-фанатами, и мы отлично посмеялись, обсуждая твои смешные моменты из варьете-шоу!"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "Ха-ха-ха, вы, ребята, нечто. Я рад слышать, что мы можем вас рассмешить.",
-            "Мне всегда любопытно, из всех наших выступлений, какая часть действительно 'гипнотизирует' вас?",
-            "Или есть крошечные детали, которые замечаете только вы?"
-          ],
-          [
-            "Правда? Значит, нам удалось скрасить ваш день.",
-            "Кстати, что делает вас такими невероятно преданными нам?",
-            "Я часто задаюсь вопросом, что заставляет вас оставаться с нами."
-          ]
-        ],
-        "answer": [
-          "Так много всего, оппа! Твоя сценическая аура, твоя тонкая улыбка, или когда ты берешь эту высокую ноту вживую, от которой у меня мурашки по коже! Я всегда обращаю внимание на то, как ты взаимодействуешь с другими участниками!",
-          "Потому что вы все такие искренние, оппа! Каждая ваша песня и каждое ваше усилие всегда дают мне позитивную энергию. Вот почему я не могу двигаться дальше!"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "Ух ты, ты замечаешь даже самые мелкие детали, да? Это меня очень трогает.",
-            "Это еще больше мотивирует меня продолжать отдавать все самое лучшее.",
-            "Есть что-нибудь, что ты хочешь сказать мне напрямую?"
-          ],
-          [
-            "Ах, искренность... Я так рад, что это доходит до вас всех.",
-            "Кстати, если у меня когда-нибудь будет свободное время, есть ли место мечты, куда ты хотела бы пойти со мной?"
-          ]
-        ],
-        "answer": [
-          "Конечно! Оппа, пожалуйста, береги свое здоровье, не болей! Не переутомляйся. Мы всегда здесь, чтобы поддержать тебя!",
-          "Оппа! Я очень хочу поехать с тобой в мировое турне на твои концерты! Или, если мы отдыхаем, я бы с удовольствием устроила пикник в тихом парке и просто поболтала."
-        ]
-      },
-      {
-        "ask": [
-          [
-            "Мировое турне с тобой? Отличная идея, надеюсь, это сбудется.",
-            "Я буду усердно работать, чтобы это произошло.",
-            "К сожалению, мне нужно скоро вернуться к тренировке, но было очень приятно с тобой поболтать."
-          ],
-          [
-            "Пикник в тихом парке звучит так умиротворяюще.",
-            "Я запомню эту идею. Ух ты, время летит незаметно, да?",
-            "Мне нужно продолжать по расписанию, большое спасибо, что составила мне компанию."
-          ]
-        ],
-        "answer": [
-          "Хорошо, оппа! Удачи на тренировке! Я тоже очень счастлива, что смогла с тобой 'поговорить', пусть и ненадолго. Береги себя!",
-          "Да, оппа, продолжай в том же духе! Это я должна благодарить тебя за 'общение' со мной. Ты тоже береги свое здоровье!"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "Ты тоже, береги свое здоровье.",
-            "Я не забуду наш сегодняшний разговор, yn.",
-            "До скорого!"
-          ],
-          [
-            "Конечно. Я буду дорожить каждым твоим словом.",
-            "Увидимся снова, yn. Надеюсь, твой день станет еще лучше после этого!"
-          ]
-        ],
-        "answer": [
-          "Обязательно, оппа! Я тоже никогда не забуду! Увидимся во сне сегодня вечером! Пока-пока!",
-          "Ты тоже, оппа! Мой день автоматически стал ярче после разговора с тобой! Увидимся!"
-        ]
-      }
+  },
+  {
+    "ask": [
+      [
+        "That's good to hear you're fine. I'm okay too, just a bit sore.",
+        "Which fancam is it? The one from the last concert, right?",
+        "By the way, how was your day?"
+      ],
+      [
+        "A little tired, yeah, but I got energized again thinking about you. Hehe.",
+        "Anything fun or interesting happen on your end today?"
+      ]
     ],
-    [
-      {
-        "ask": [["yn", "ты здесь?", "Мне скучно"]],
-        "answer": ["мне тоже", "да, я здесь для тебя"]
-      },
-      {
-        "ask": [
-          ["ты уверен?", "давай поговорим о чем-нибудь"],
-          ["хорошо", "давай поговорим о чем-нибудь"]
-        ],
-        "answer": ["хорошо, давай поговорим", "предложи тему для разговора"]
-      },
-      {
-        "ask": [
-          [
-            "хорошо",
-            "на самом деле я хочу спросить тебя, yn?",
-            "мне очень нравится девушка, но я не знаю, как ей сказать"
-          ],
-          [
-            "мы можем поговорить о любви?",
-            "на самом деле я хочу спросить тебя, yn?",
-            "мне очень нравится девушка, но я не знаю, как ей сказать"
-          ]
-        ],
-        "answer": [
-          "очень просто, просто скажи ей, что она тебе нравится",
-          "хм, просто пригласи ее в кино на эти выходные"
-        ]
-      },
-      {
-        "ask": [
-          ["ты мне нравишься", "ты хочешь пойти в кино на этих выходных"],
-          ["хорошо", "ты хочешь пойти в кино на этих выходных"]
-        ],
-        "answer": ["нет, я имел в виду спроси ее", "кто? я? правда"]
-      },
-      {
-        "ask": [
-          [
-            "да, я сделал это",
-            "ты мне нравишься",
-            "потому что в тебе есть что-то особенное, что меня привлекает"
-          ],
-          [
-            "да, конечно, ты",
-            "потому что в тебе есть что-то особенное, что меня привлекает"
-          ]
-        ],
-        "answer": ["ты мне тоже нравишься", "что это за вещи"]
-      },
-      {
-        "ask": [
-          [
-            "ты уверен?",
-            "на самом деле нет никого, кроме тебя, кто заставляет меня громко смеяться",
-            "поэтому я хочу, чтобы ты знал, что я люблю тебя, yn"
-          ],
-          [
-            "дело в том, что нет никого, кроме тебя, кто заставляет меня громко смеяться",
-            "поэтому я хочу, чтобы ты знал, что я люблю тебя, yn"
-          ]
-        ],
-        "answer": [
-          "ооо, ты меня смущаешь",
-          "я действительно особенная для тебя?"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "я?",
-            "ты действительно особенная для меня?",
-            "и я хочу оставаться с тобой надолго",
-            "но мне нужно идти",
-            "я позвоню тебе как можно скорее"
-          ],
-          [
-            "ты действительно особенная для меня?",
-            "и я хочу оставаться с тобой надолго",
-            "но мне нужно идти",
-            "я позвоню тебе как можно скорее"
-          ]
-        ],
-        "answer": [
-          "ооо, ты меня смущаешь",
-          "я действительно особенная для тебя?"
-        ]
-      }
-    ],
-    [
-      {
-        "ask": [["yn", "как дела"]],
-        "answer": ["привет, oppa", "привет"]
-      },
-      {
-        "ask": [["куда ты пропал?"], ["куда ты пропал?"]],
-        "answer": ["я здесь все время", "ничего особенного, я просто отдыхал"]
-      },
-      {
-        "ask": [
-          ["я скучал по тебе", "yn", "почему ты мне не написал?"],
-          ["я скучал по тебе", "yn", "почему ты мне не написал?"]
-        ],
-        "answer": [
-          "я тоже скучаю по тебе, нет, ты у меня в мыслях",
-          "спасибо, oppa, извини, я был занят вчера"
-        ]
-      },
-      {
-        "ask": [
-          ["так мы можем встретиться завтра", "мы пойдем в парк развлечений"],
-          ["так мы можем встретиться сегодня?", "мы пойдем в парк развлечений"]
-        ],
-        "answer": [
-          "вау, конечно, в любое время, когда захочешь",
-          "хм, извини, oppa, сегодня мне нужно в супермаркет"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "отлично, я заберу тебя",
-            "и мы заставим всех участников BTS ревновать"
-          ],
-          [
-            "хорошо, я отвезу тебя в супермаркет",
-            "пойдем вместе за покупками",
-            "и мы заставим всех участников BTS ревновать"
-          ]
-        ],
-        "answer": [
-          "хахах, давай заставим их ревновать, oppa",
-          "хахах, не заставляй их ревновать, oppa"
-        ]
-      },
-      {
-        "ask": [
-          ["да, yn", "мы поделимся нашим фото в инстаграме"],
-          ["почему, yn", "мы поделимся нашим фото в инстаграме"]
-        ],
-        "answer": [
-          "ОМГ, ты поделишься нашим фото в своем инстаграме",
-          "Нет, oppa, пожалуйста, я стесняюсь"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "да, детка",
-            "я хочу, чтобы весь мир видел нас",
-            "увидимся завтра, yn",
-            "я не могу дождаться, чтобы увидеть тебя"
-          ],
-          [
-            "почему? ты самая красивая женщина, которую я когда-либо встречал",
-            "я хочу, чтобы весь мир видел нас",
-            "увидимся завтра, yn",
-            "я не могу дождаться, чтобы увидеть тебя"
-          ]
-        ],
-        "answer": [
-          "ОМГ, ты поделишься нашим фото в своем инстаграме",
-          "Нет, oppa, пожалуйста, я стесняюсь"
-        ]
-      }
-    ],
-    [
-      {
-        "ask": [["anyeonghaseyo", "yn", "это значит привет"]],
-        "answer": ["anyeonghaseyo, oppa", "я знаю, что это значит привет"]
-      },
-      {
-        "ask": [
-          ["о, хорошо", "ты говоришь по-корейски?"],
-          ["правда?", "ты говоришь по-корейски?"]
-        ],
-        "answer": ["да, я могу", "немного, oppa"]
-      },
-      {
-        "ask": [
-          [
-            "вау, потрясающе",
-            "ты когда-нибудь бывал в Корее?",
-            "я имею в виду Сеул"
-          ],
-          [
-            "все в порядке",
-            "ты когда-нибудь бывал в Корее?",
-            "я имею в виду Сеул"
-          ]
-        ],
-        "answer": ["нет, никогда", "да, бывал"]
-      },
-      {
-        "ask": [
-          [
-            "неважно",
-            "ты всегда добро пожаловать в Корею",
-            "я посетил много стран"
-          ],
-          [
-            "правда? ты должен снова посетить Корею",
-            "ты всегда добро пожаловать в Корею",
-            "я посетил много стран"
-          ]
-        ],
-        "answer": ["вау, это потрясающе", "как прошло путешествие?"]
-      },
-      {
-        "ask": [
-          [
-            "да, yn, ты должна посетить много стран",
-            "каждая страна имеет свою собственную красоту",
-            "мы посетим их скоро в мировом турне"
-          ],
-          [
-            "я очарован",
-            "каждая страна имеет свою собственную красоту",
-            "мы посетим их скоро в мировом турне"
-          ]
-        ],
-        "answer": [
-          "я рад это слышать, но я ревную, потому что меня не было с тобой",
-          "это потрясающе"
-        ]
-      },
-      {
-        "ask": [
-          ["ты можешь поехать со мной позже в мировом турне"],
-          [
-            "дааа, это потрясающе",
-            "ты можешь поехать со мной позже в мировом турне"
-          ]
-        ],
-        "answer": ["ОМГ, ты уверен?", "звучит хорошо"]
-      },
-      {
-        "ask": [
-          [
-            "да, yn",
-            "менеджер oppa пришлет тебе билет",
-            "но мне нужно идти практиковаться для мирового турне",
-            "поблагодари меня позже в другой стране",
-            "увидимся, yn"
-          ],
-          [
-            "менеджер oppa пришлет тебе билет",
-            "но мне нужно идти практиковаться для мирового турне",
-            "поблагодари меня позже в другой стране",
-            "увидимся, yn"
-          ]
-        ],
-        "answer": [
-          "ОМГ, ты поделишься нашим фото в своем инстаграме",
-          "Нет, oppa, пожалуйста, я стесняюсь"
-        ]
-      }
-    ],
-    [
-      {
-        "ask": [["привет, yn"]],
-        "answer": ["привет, oppa", "привет, oppa"]
-      },
-      {
-        "ask": [["как дела?"], ["как дела?"]],
-        "answer": ["я в порядке", "я в порядке"]
-      },
-      {
-        "ask": [
-          ["хорошо", "вчера я думал о тебе перед сном"],
-          ["круто", "вчера я думал о тебе перед сном"]
-        ],
-        "answer": [
-          "правда, о, ты меня смущаешь, oppa",
-          "о чем ты думаешь обо мне?"
-        ]
-      },
-      {
-        "ask": [
-          ["правда", "на самом деле я хочу быть ближе к тебе"],
-          [
-            "самая милая женщина, которую я когда-либо встречал",
-            "на самом деле я хочу быть ближе к тебе"
-          ]
-        ],
-        "answer": ["ОМГ, это так мило", "ты такой лжец, oppa"]
-      },
-      {
-        "ask": [
-          ["да, милая", "как насчет ужина сегодня вечером?"],
-          ["нет, милая", "я не лжец", "как насчет ужина сегодня вечером?"]
-        ],
-        "answer": [
-          "конечно, oppa, ты можешь отправить мне местоположение?",
-          "Я хочу, но извини, я опоздаю"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "да, yn",
-            "ты можешь пойти в ресторан Seonyang",
-            "извини, я не могу тебя забрать",
-            "потому что я все еще тренируюсь с участниками BTS"
-          ],
-          [
-            "все в порядке, yn",
-            "ты можешь пойти в ресторан Seonyang",
-            "извини, я не могу тебя забрать",
-            "потому что я все еще тренируюсь с участниками BTS"
-          ]
-        ],
-        "answer": ["все в порядке, oppa", "неважно, я буду там в 20:00"]
-      },
-      {
-        "ask": [
-          ["я не могу дождаться встречи с тобой как можно скорее"],
-          ["увидимся как можно скорее"]
-        ],
-        "answer": [
-          "ОМГ, ты поделишься нашим фото в своем инстаграме",
-          "Нет, oppa, пожалуйста, я стесняюсь"
-        ]
-      }
-    ],
-    [
-      {
-        "ask": [
-          ["привет", "самая красивая женщина, которую я когда-либо встречал"]
-        ],
-        "answer": [
-          "привет, oppa, где ты?",
-          "почему ты игнорируешь мои сообщения"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "я в офисе, yn",
-            "в эти дни у нас много танцевальных практик",
-            "я очень устал"
-          ],
-          [
-            "я не игнорирую твои сообщения специально, yn",
-            "в эти дни у нас много танцевальных практик",
-            "я очень устал"
-          ]
-        ],
-        "answer": ["это здорово", "ты собираешься вернуться, oppa?"]
-      },
-      {
-        "ask": [
-          [
-            "да, это здорово",
-            "мы много тренировались для нашего возвращения для армии"
-          ],
-          [
-            "да, мы вернемся с новым альбомом",
-            "мы много тренировались для нашего возвращения для армии"
-          ]
-        ],
-        "answer": [
-          "я не могу дождаться, oppa",
-          "скажи мне свою новую песню, пожалуйста"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "конечно",
-            "но я не могу рассказать тебе о своей новой песне",
-            "смысл в том, что у нас есть новая отличная песня"
-          ],
-          [
-            "нет, детка",
-            "я не могу рассказать тебе о своей новой песне",
-            "смысл в том, что у нас есть новая отличная песня"
-          ]
-        ],
-        "answer": [
-          "пожалуйста, дай мне знать, oppa",
-          "все в порядке, oppa, я подожду до официального релиза"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "нет, yn",
-            "но если хочешь",
-            "ты можешь прийти и посмотреть нашу тренировку в следующий раз",
-            "но никому не говори"
-          ],
-          [
-            "это моя детка",
-            "но если хочешь",
-            "ты можешь прийти и посмотреть нашу тренировку в следующий раз",
-            "но никому не говори"
-          ]
-        ],
-        "answer": [
-          "ОМГ, правда, я никому не скажу",
-          "подожди секунду, я скажу своему близкому другу"
-        ]
-      },
-      {
-        "ask": [
-          ["да, yn", "ты не можешь никому об этом говорить"],
-          ["подожди", "нет, yn", "ты не можешь никому об этом говорить"]
-        ],
-        "answer": ["я не буду, oppa"]
-      },
-      {
-        "ask": [
-          ["хорошо, yn", "увидимся в офисе в 14:30"],
-          ["хорошо, yn", "увидимся в офисе в 14:30"]
-        ],
-        "answer": ["я не буду, oppa"]
-      }
-    ],
-    [
-      {
-        "ask": [["yn", "ты дома?"]],
-        "answer": ["да, oppa, почему?", "конечно, oppa, я дома"]
-      },
-      {
-        "ask": [
-          ["потрясающе", "могу я поговорить с твоей мамой?"],
-          ["потрясающе", "могу я поговорить с твоей мамой?"]
-        ],
-        "answer": ["что, почему?", "поговорить с моей мамой, почему?"]
-      },
-      {
-        "ask": [
-          [
-            "я хочу сказать ей",
-            "что ее дочь самая милая женщина, которую я когда-либо видел"
-          ],
-          [
-            "я хочу сказать ей",
-            "что ее дочь самая милая женщина, которую я когда-либо видел"
-          ]
-        ],
-        "answer": ["правда", "ты такой лжец, oppa"]
-      },
-      {
-        "ask": [
-          ["конечно, yn", "ты действительно особенная для меня"],
-          ["нет, yn", "ты действительно особенная для меня"]
-        ],
-        "answer": [
-          "правда, ОМГ, ты меня смущаешь",
-          "ты знаешь, как меня смутить"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "хаха",
-            "ты мне нравишься еще больше, мир может знать, но не бойся",
-            "сейчас я улыбаюсь, потому что вижу твое фото"
-          ],
-          [
-            "хаха",
-            "ты мне нравишься еще больше, мир может знать, но не бойся",
-            "сейчас я улыбаюсь, потому что вижу твое фото"
-          ]
-        ],
-        "answer": [
-          "я тоже, oppa",
-          "oppa, ты знал, что обои на моем телефоне - это ты, oppa"
-        ]
-      },
-      {
-        "ask": [["откуда у тебя мое фото?"], ["откуда у тебя мое фото?"]],
-        "answer": [
-          "у меня их много, oppa, но мне все равно мало",
-          "скриншот инстаграма, oppa"
-        ]
-      },
-      {
-        "ask": [
-          [
-            "ты можешь скачать обои BTS или мои обои на Hana Studio в Playstore",
-            "тебе не нужно делать скриншот, потому что ты можешь легко сохранить мое фото",
-            "там много фотографий, и они обновляются быстрее всего"
-          ],
-          [
-            "ты можешь скачать обои BTS или мои обои на Hana Studio в Playstore",
-            "тебе не нужно делать скриншот, потому что ты можешь легко сохранить мое фото",
-            "там много фотографий, и они обновляются быстрее всего"
-          ]
-        ],
-        "answer": [
-          "у меня их много, oppa, но мне все равно мало",
-          "скриншот инстаграма, oppa"
-        ]
-      }
-    ],
-    [
-      {
-        "ask": [
-          ["yn", "что ты делаешь?"],
-          ["yn", "что ты делаешь?"]
-        ],
-        "answer": ["ничего не делаю, oppa", "переписываюсь с тобой, oppa"]
-      },
-      {
-        "ask": [
-          ["ОМГ, тебе скучно?", "сыграем в игру"],
-          ["да, я знаю", "сыграем в игру"]
-        ],
-        "answer": ["да, oppa, я люблю игры", "давай играть, oppa"]
-      },
-      {
-        "ask": [
-          [
-            "хорошо, давай начнем нашу игру",
-            "я заставлю тебя выбрать из двух разных?",
-            "утро / ночь"
-          ],
-          [
-            "давай играть",
-            "я заставлю тебя выбрать из двух разных?",
-            "утро / ночь"
-          ]
-        ],
-        "answer": ["ночь", "утро"]
-      },
-      {
-        "ask": [
-          ["я тоже", "кофе или чай"],
-          ["я тоже", "кофе или чай"]
-        ],
-        "answer": ["кофе", "чай"]
-      },
-      {
-        "ask": [
-          ["ОМГ, снова совпадение", "собака или кошка"],
-          ["ОМГ, снова совпадение", "собака или кошка"]
-        ],
-        "answer": [
-          "конечно, милый мяу-мяу",
-          "конечно, я всегда выбираю милую собаку"
-        ]
-      },
-      {
-        "ask": [
-          ["но ты самая милая", "yn", "я или Джастин Бибер"],
-          ["но ты самая милая", "yn", "я или Джастин Бибер"]
-        ],
-        "answer": ["тыыы", "Джастин Бибер ЛОЛ"]
-      },
-      {
-        "ask": [
-          [
-            "Правда, yn",
-            "ты мне тоже нравишься",
-            "я заберу тебя на ужин",
-            "готовься, детка"
-          ],
-          ["хорошо", "спасибо", "я пойду", "увидимся"]
-        ],
-        "answer": ["тыыы", "Джастин Бибер ЛОЛ"]
-      }
+    "answer": [
+      "That one, Oppa! Gosh, you're just perfection! My day was pretty good, just went to college.",
+      "It was super fun, Oppa! I met up with some of your other fan friends, and we had a blast talking about your funny variety show moments!"
     ]
+  },
+  {
+    "ask": [
+      [
+        "Hahaha, you guys are something else. I'm happy to hear you can laugh because of us.",
+        "I'm always curious, out of all our performances, what part really 'mesmerizes' you?",
+        "Or are there tiny details only you guys notice?"
+      ],
+      [
+        "Really? So we managed to brighten your day then.",
+        "Speaking of which, what makes you all so incredibly loyal to us?",
+        "I often wonder what makes you all stick around."
+      ]
+    ],
+    "answer": [
+      "So many things, Oppa! Your stage aura, your subtle smile, or when you hit that high note live that gives me chills! I always pay attention to how you interact with the other members!",
+      "Because you're all so genuine, Oppa! Every song and every effort you put in always gives me positive energy. That's why I can't move on!"
+    ]
+  },
+  {
+    "ask": [
+      [
+        "Wow, you really notice even the smallest things, huh? That truly touches my heart.",
+        "It makes me even more motivated to keep giving my best.",
+        "Is there anything you want to tell me directly?"
+      ],
+      [
+        "Ah, sincerity... I'm so glad that comes across to you all.",
+        "By the way, if I ever had some free time, is there a dream place you'd want to go with me?"
+      ]
+    ],
+    "answer": [
+      "Of course! Oppa, please take care of your health, don't get sick! Don't overwork yourself. We're always here supporting you!",
+      "Oppa! I really want to go on your world tour concerts with you! Or if we're relaxing, I'd love to have a picnic in a quiet park and just chat."
+    ]
+  },
+  {
+    "ask": [
+      [
+        "World tour with you? That's a great idea, I hope it comes true.",
+        "I'll work hard to make that happen.",
+        "Unfortunately, I have to go back to practice in a bit, but it was really nice talking to you."
+      ],
+      [
+        "A quiet park picnic sounds so peaceful.",
+        "I'll keep that idea in mind. Wow, time really flies, huh?",
+        "I have to continue with my schedule, thank you so much for keeping me company."
+      ]
+    ],
+    "answer": [
+      "Okay, Oppa! Good luck with practice! I'm also super happy I could 'talk' to you, even for a little while. Take care!",
+      "Yes, Oppa, keep up the good work! I should be thanking you for 'chatting' with me. You take care of your health too!"
+    ]
+  },
+  {
+    "ask": [
+      [
+        "You too, take good care of your health.",
+        "I won't forget our conversation today, yn.",
+        "See you later!"
+      ],
+      [
+        "Of course. I'll cherish every word you said.",
+        "See you again, yn. Hope your day gets even better after this!"
+      ]
+    ],
+    "answer": [
+      "Definitely, Oppa! I'll never forget! See you in my dreams tonight! Bye-bye!",
+      "You too, Oppa! My day's automatically brighter after talking to you! See you!"
+    ]
+  }
+]
   ],
-
   "chat_ind": [
     [
       {
@@ -2117,6 +1547,108 @@
         ],
         "answer": ["kamu", "justin bieber LOL"]
       }
+    ],
+    [
+  {
+    "ask": [
+      [
+        "Hai, yn! Sedang apa hari ini?",
+        "Baru selesai latihan, dan entah kenapa kamu terlintas di pikiranku.",
+        "Kamu lagi sibuk apa sekarang?"
+      ]
+    ],
+    "answer": [
+      "OMG, Oppa! Aku kaget banget! Aku baik-baik aja, lagi santai di kasur sambil *scrolling* postingan kalian, hehe.",
+      "Aku baik! Aku lagi nonton ulang salah satu *fancam* legendaris Oppa! Oppa sendiri gimana, gak capek habis latihan?"
     ]
+  },
+  {
+    "ask": [
+      [
+        "Syukurlah kalau kamu baik-baik saja. Aku juga baik, cuma agak pegal.",
+        "*Fancam* yang mana? Yang dari konser terakhir, ya?",
+        "Ngomong-ngomong, bagaimana harimu?"
+      ],
+      [
+        "Sedikit capek, iya, tapi langsung semangat lagi karena kepikiran kamu. Hehe.",
+        "Ada hal seru atau menarik yang terjadi di harimu hari ini?"
+      ]
+    ],
+    "answer": [
+      "Yang itu, Oppa! Ya ampun, Oppa memang sempurna! Hariku cukup menyenangkan, baru pulang kuliah.",
+      "Seru banget, Oppa! Aku ketemu teman-teman *fans* Oppa yang lain, terus kami seru-seruan bahas momen-momen lucu kalian di *variety show*!"
+    ]
+  },
+  {
+    "ask": [
+      [
+        "Hahaha, kalian ini ada-ada saja. Aku senang dengar kalian bisa tertawa karena kami.",
+        "Aku selalu penasaran, dari semua penampilan kami, bagian mana yang benar-benar bikin kamu 'terpukau'?",
+        "Atau ada detail kecil yang cuma kalian yang sadar?"
+      ],
+      [
+        "Benarkah? Berarti kami berhasil mencerahkan harimu ya.",
+        "Ngomong-ngomong, apa yang membuat kalian begitu luar biasa loyal sama kami?",
+        "Aku sering bertanya-tanya apa yang membuat kalian semua bertahan."
+      ]
+    ],
+    "answer": [
+      "Banyak hal, Oppa! Aura panggung Oppa, senyum tipis Oppa, atau waktu Oppa berhasil mencapai nada tinggi *live* yang bikin merinding! Aku selalu perhatiin juga gimana Oppa berinteraksi sama member lain!",
+      "Karena kalian semua tulus, Oppa! Setiap lagu dan usaha yang kalian berikan selalu memberiku energi positif. Makanya aku gak bisa *move on*!"
+    ]
+  },
+  {
+    "ask": [
+      [
+        "Wow, kamu benar-benar memperhatikan hal sekecil itu, ya? Itu benar-benar menyentuh hatiku.",
+        "Itu membuatku makin termotivasi untuk terus memberikan yang terbaik.",
+        "Ada yang ingin kamu sampaikan langsung kepadaku?"
+      ],
+      [
+        "Ah, ketulusan... Aku sangat senang itu tersampaikan pada kalian semua.",
+        "Ngomong-ngomong, kalau aku punya waktu luang, ada tempat impian yang ingin kamu kunjungi bersamaku?"
+      ]
+    ],
+    "answer": [
+      "Tentu saja! Oppa, tolong jaga kesehatan ya, jangan sampai sakit! Jangan terlalu memaksakan diri. Kami selalu di sini mendukung Oppa!",
+      "Oppa! Aku ingin sekali ikut tur konser dunia Oppa! Atau kalau santai, aku mau piknik di taman yang tenang sambil ngobrol."
+    ]
+  },
+  {
+    "ask": [
+      [
+        "Tur dunia bersamamu? Itu ide yang bagus, semoga terwujud.",
+        "Aku akan bekerja keras untuk mewujudkannya.",
+        "Sayangnya, sebentar lagi aku harus kembali latihan, tapi senang sekali bisa bicara denganmu."
+      ],
+      [
+        "Piknik di taman yang tenang kedengarannya sangat damai.",
+        "Aku akan ingat ide itu. Wah, waktu cepat berlalu ya?",
+        "Aku harus melanjutkan jadwalku, terima kasih banyak sudah menemaniku."
+      ]
+    ],
+    "answer": [
+      "Oke, Oppa! Semangat latihannya! Aku juga senang banget bisa 'ngobrol' sama Oppa, meskipun sebentar. Jaga diri ya!",
+      "Iya, Oppa, semangat kerjanya! Harusnya aku yang terima kasih karena Oppa mau 'ngobrol'. Oppa juga jaga kesehatan ya!"
+    ]
+  },
+  {
+    "ask": [
+      [
+        "Kamu juga, jaga kesehatan baik-baik.",
+        "Aku tidak akan melupakan percakapan kita hari ini, yn.",
+        "Sampai jumpa lagi!"
+      ],
+      [
+        "Tentu saja. Aku akan menghargai setiap kata yang kamu ucapkan.",
+        "Sampai ketemu lagi, yn. Semoga harimu makin cerah setelah ini!"
+      ]
+    ],
+    "answer": [
+      "Pasti, Oppa! Aku gak akan pernah lupa! Sampai ketemu di mimpiku nanti malam! *Bye-bye*!",
+      "Oppa juga! Hariku otomatis jadi cerah setelah ngobrol sama Oppa! Sampai jumpa!"
+    ]
+  }
+]
   ]
 }
