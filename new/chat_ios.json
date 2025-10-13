@@ -756,7 +756,9 @@
     "ask": [
       [
         "Hey, yn! What are you up to today?",
-        "Just finished practice, and somehow you popped into my head.",
+        "Just finished practice, and somehow you popped into my head."
+      ],
+      [
         "What are you busy with right now?"
       ]
     ],
@@ -1553,7 +1555,9 @@
     "ask": [
       [
         "Hai, yn! Sedang apa hari ini?",
-        "Baru selesai latihan, dan entah kenapa kamu terlintas di pikiranku.",
+        "Baru selesai latihan, dan entah kenapa kamu terlintas di pikiranku."
+      ],
+      [
         "Kamu lagi sibuk apa sekarang?"
       ]
     ],
@@ -1602,7 +1606,7 @@
       [
         "Wow, kamu benar-benar memperhatikan hal sekecil itu, ya? Itu benar-benar menyentuh hatiku.",
         "Itu membuatku makin termotivasi untuk terus memberikan yang terbaik.",
-        "Ada yang ingin kamu sampaikan langsung kepadaku?"
+        "Is there anything you want to tell me directly?"
       ],
       [
         "Ah, ketulusan... Aku sangat senang itu tersampaikan pada kalian semua.",
