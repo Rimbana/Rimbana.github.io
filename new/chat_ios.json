@@ -752,109 +752,1258 @@
       }
     ],
     [
-  {
-    "ask": [
-      [
-        "Hey, yn! What are you up to today?",
-        "Just finished practice, and somehow you popped into my head."
-      ],
-      [
-        "What are you busy with right now?"
-      ]
+      {
+        "ask": [["yn", "how are you?", ""]],
+        "answer": ["I'm good oppa", "not so good oppa"]
+      },
+      {
+        "ask": [
+          [
+            "are you tired?",
+            "I still can’t believe you actually came to my concert last night"
+          ],
+          [
+            "are you tired?",
+            " I still can’t believe you really came to my concert last night"
+          ]
+        ],
+        "answer": [
+          "No oppa, I didn’t expect it either, I can’t believe you could see me from the stage",
+          "A bit oppa, the concert lights were super bright, I thought you wouldn’t see me from the stage."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Glad to hear that",
+            "Last night during the second song’s chorus, I forgot the lyrics because I was looking at you",
+            "Did you see that?"
+          ],
+          [
+            "You should get some rest",
+            "I’m so happy you came to my concert",
+            "Last night during the second song’s chorus, I forgot the lyrics because I was looking at you",
+            "Could you see me from there?"
+          ]
+        ],
+        "answer": [
+          "Yeah, I saw it oppa, did I distract you?",
+          "I didn’t see it because I was too far, did I distract you oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You really did",
+            "It felt like I got extra energy every time I saw you",
+            "But I wanted to get off the stage and sing right next to you"
+          ],
+          [
+            "Not at all",
+            "But I wanted to get off the stage and sing right next to you"
+          ]
+        ],
+        "answer": [
+          "Oppa, don’t say that, I’ll get shy",
+          "Really? I’d love to hear you sing right beside me"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "What can I say, you looked so beautiful last night",
+            "You were shining so bright the stage lights couldn’t even compare",
+            "Did you have fun at my concert?"
+          ],
+          [
+            "Of course",
+            "You were shining so bright the stage lights couldn’t even compare",
+            "Did you have fun at my concert?"
+          ]
+        ],
+        "answer": ["Oppa, you’re such a sweet talker", "I had so much fun oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Haha, I was actually singing while looking at you on purpose.",
+            "Which song did you like the most from all the ones I performed tonight?"
+          ],
+          [
+            "Are you sure?",
+            "I hope you’ll always come to my concerts",
+            "Which song did you like the most from all the ones I performed tonight?"
+          ]
+        ],
+        "answer": [
+          "The last one, because every word felt so sincere when you sang it",
+          "I liked every song you sang, oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I actually wrote that song for you",
+            "Every time I sing it, I always think of you",
+            "And I want to sing it right next to you",
+            "You know what, I purposely stayed longer on stage just to see you a bit more.",
+            "Did you notice?"
+          ],
+          [
+            "That last song, I made it especially for you",
+            "Every time I sing it, I always think of you",
+            "And I want to sing it right next to you",
+            "You know what, I purposely stayed longer on stage just to see you a bit more.",
+            "Did you notice?"
+          ]
+        ],
+        "answer": [
+          "Oppa, you’re too much, my heart can’t take it",
+          "Am I really that special to you?"
+        ]
+      }
     ],
-    "answer": [
-      "OMG, Oppa! I'm so shocked! I'm doing fine, just chilling on my bed scrolling through your posts, hehe.",
-      "I'm good! I'm rewatching one of your legendary fancams, Oppa! How are you, aren't you tired from practice?"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "That's good to hear you're fine. I'm okay too, just a bit sore.",
-        "Which fancam is it? The one from the last concert, right?",
-        "By the way, how was your day?"
-      ],
-      [
-        "A little tired, yeah, but I got energized again thinking about you. Hehe.",
-        "Anything fun or interesting happen on your end today?"
-      ]
+    [
+      {
+        "ask": [["yn", "were you happy to come to my fanmeet?", ""]],
+        "answer": ["so happy oppa", "not really happy oppa"]
+      },
+      {
+        "ask": [
+          [
+            "I'm worried you might be tired",
+            "I still can’t believe you actually came to my fanmeet this afternoon"
+          ],
+          [
+            "I'm worried you might be tired",
+            " I still can’t believe you really came to my fanmeet this afternoon"
+          ]
+        ],
+        "answer": [
+          "a bit tired, but I’m really happy I got to see you oppa",
+          "not tired oppa, I just wish we had more time together"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You should get some rest",
+            "by the way, the gift you gave me earlier",
+            "did you make it yourself?",
+            "’cause I looked at the same store and couldn’t find it"
+          ],
+          [
+            "I also wanted to spend more time with you",
+            "by the way, the gift you gave me earlier",
+            "did you make it yourself?",
+            "’cause I looked at the same store and couldn’t find it"
+          ]
+        ],
+        "answer": [
+          "Yeah oppa, how did you know?",
+          "No oppa, I had it custom made by my friend"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Yeah I knew",
+            "I could really feel the effort you put into it",
+            "I’m curious, why did you pick that color for the wrapping?"
+          ],
+          [
+            "wow thank you so much",
+            "I really love the gift",
+            "I’m curious, why did you pick that color for the wrapping?"
+          ]
+        ],
+        "answer": [
+          "Because I remember you often wear that color on stage",
+          "Because I know you like that color oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "It totally fits my taste",
+            "You know what, when I opened the gift backstage",
+            "I couldn’t stop smiling for a while."
+          ],
+          [
+            "You always know exactly what I like",
+            "You know what, when I opened the gift backstage",
+            "I couldn’t stop smiling for a while."
+          ]
+        ],
+        "answer": [
+          "Wow, then my goal to make you smile worked",
+          "I didn’t know, why oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "It felt like your energy was in it..",
+            "I really love that little note on the card. Did you write it yourself?"
+          ],
+          [
+            "It felt like your energy was in it.",
+            "I really hope you keep coming to my fanmeets",
+            "I really love that little note on the card. Did you write it yourself?"
+          ]
+        ],
+        "answer": [
+          "Yeah oppa, I handwrote it so you could feel it came from the heart",
+          "Why oppa? Is my handwriting bad?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I could feel every bit of sincerity in your words",
+            "Every time I read that letter, I always think of you",
+            "and I want you to read it out loud for me someday"
+          ],
+          [
+            "No, your handwriting’s too pretty",
+            "I could feel every bit of sincerity in your words",
+            "Every time I read that letter, I always think of you",
+            "and I want you to read it out loud for me someday"
+          ]
+        ],
+        "answer": [
+          "Oppa, you talk so sweetly, I can’t wait to read the letter for you in person",
+          "Oppa, seeing you happy receiving my gift really makes me feel relieved"
+        ]
+      }
     ],
-    "answer": [
-      "That one, Oppa! Gosh, you're just perfection! My day was pretty good, just went to college.",
-      "It was super fun, Oppa! I met up with some of your other fan friends, and we had a blast talking about your funny variety show moments!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Hahaha, you guys are something else. I'm happy to hear you can laugh because of us.",
-        "I'm always curious, out of all our performances, what part really 'mesmerizes' you?",
-        "Or are there tiny details only you guys notice?"
-      ],
-      [
-        "Really? So we managed to brighten your day then.",
-        "Speaking of which, what makes you all so incredibly loyal to us?",
-        "I often wonder what makes you all stick around."
-      ]
+    [
+      {
+        "ask": [["yn", "when are we going to that coffee shop again?", ""]],
+        "answer": ["I’d love to, oppa", "maybe not anytime soon oppa"]
+      },
+      {
+        "ask": [
+          [
+            "are you busy this afternoon?",
+            "The place feels so empty without you there"
+          ],
+          ["are you busy?", " The place just feels so empty without you around"]
+        ],
+        "answer": [
+          "no oppa, I’m free this afternoon",
+          "just a little busy, but I’d be happy to go if oppa asks me"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I don’t know why",
+            "I keep thinking about that moment when you looked down while stirring your coffee.",
+            "Do you usually like your coffee sweet or bitter?"
+          ],
+          [
+            "I’ll pick you up later this afternoon",
+            "I keep thinking about that moment when you looked down while stirring your coffee.",
+            "Do you usually like your coffee sweet or bitter?"
+          ]
+        ],
+        "answer": ["Bitter oppa", "Sweet oppa"]
+      },
+      {
+        "ask": [
+          [
+            "I know why you like it bitter",
+            "Because you’re already sweet enough",
+            "But I’m curious, why do you always smile when you drink coffee?"
+          ],
+          [
+            "You’re already too sweet",
+            "So don’t drink sweet things too often",
+            "But I’m curious, why do you always smile when you drink coffee?"
+          ]
+        ],
+        "answer": [
+          "Because coffee reminds me of you oppa",
+          "Because I know you love coffee oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Why? Am I too bitter for you?",
+            "You know what, ever since that day at the coffee shop, I can’t stop thinking about you",
+            "I smile every time I remember that moment"
+          ],
+          [
+            "You always know exactly what I like",
+            "You know what, ever since that day at the coffee shop, I can’t stop thinking about you",
+            "I smile every time I remember that moment"
+          ]
+        ],
+        "answer": [
+          "I can’t stop thinking about you either oppa",
+          "I don’t know, why do you keep thinking about me oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’m curious what your coffee tastes like",
+            "When will I get to try it?",
+            "Sometimes I get jealous of the coffee at that shop"
+          ],
+          [
+            "I keep wondering",
+            "When will I get to try your coffee?",
+            "Sometimes I get jealous of the coffee at that shop"
+          ]
+        ],
+        "answer": [
+          "Soon oppa, why are you jealous?",
+          "You can try it anytime you want oppa, you’re better than any coffee at that shop"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’ll be waiting to taste your coffee",
+            "Coffee gets to be with you every day",
+            "while I can only talk to you through chat.",
+            "And coffee gets to be held in your hands",
+            "while I can only imagine holding your hand",
+            "Can I hold your hand?"
+          ],
+          [
+            "I can’t wait to taste your coffee",
+            "Coffee gets to be with you every day",
+            "while I can only talk to you through chat.",
+            "and it’s always in your hands",
+            "while I can only imagine holding your hand",
+            "Can I hold your hand?"
+          ]
+        ],
+        "answer": [
+          "If that’s the case, then gladly oppa",
+          "Oppa, is this even real?"
+        ]
+      },
+
+      {
+        "ask": [["yn", "when are we going to that coffee shop again?", ""]],
+        "answer": ["I’d love to, oppa", "maybe not anytime soon oppa"]
+      },
+      {
+        "ask": [
+          [
+            "are you busy this afternoon?",
+            "The place feels so empty without you there"
+          ],
+          ["are you busy?", " The place just feels so empty without you around"]
+        ],
+        "answer": [
+          "no oppa, I’m free this afternoon",
+          "just a little busy, but I’d be happy to go if oppa asks me"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I don’t know why",
+            "I keep thinking about that moment when you looked down while stirring your coffee.",
+            "Do you usually like your coffee sweet or bitter?"
+          ],
+          [
+            "I’ll pick you up later this afternoon",
+            "I keep thinking about that moment when you looked down while stirring your coffee.",
+            "Do you usually like your coffee sweet or bitter?"
+          ]
+        ],
+        "answer": ["Bitter oppa", "Sweet oppa"]
+      },
+      {
+        "ask": [
+          [
+            "I know why you like it bitter",
+            "Because you’re already sweet enough",
+            "But I’m curious, why do you always smile when you drink coffee?"
+          ],
+          [
+            "You’re already too sweet",
+            "So don’t drink sweet things too often",
+            "But I’m curious, why do you always smile when you drink coffee?"
+          ]
+        ],
+        "answer": [
+          "Because coffee reminds me of you oppa",
+          "Because I know you love coffee oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Why? Am I too bitter for you?",
+            "You know what, ever since that day at the coffee shop, I can’t stop thinking about you",
+            "I smile every time I remember that moment"
+          ],
+          [
+            "You always know exactly what I like",
+            "You know what, ever since that day at the coffee shop, I can’t stop thinking about you",
+            "I smile every time I remember that moment"
+          ]
+        ],
+        "answer": [
+          "I can’t stop thinking about you either oppa",
+          "I don’t know, why do you keep thinking about me oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’m curious what your coffee tastes like",
+            "When will I get to try it?",
+            "Sometimes I get jealous of the coffee at that shop"
+          ],
+          [
+            "I keep wondering",
+            "When will I get to try your coffee?",
+            "Sometimes I get jealous of the coffee at that shop"
+          ]
+        ],
+        "answer": [
+          "Soon oppa, why are you jealous?",
+          "You can try it anytime you want oppa, you’re better than any coffee at that shop"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’ll be waiting to taste your coffee",
+            "Coffee gets to be with you every day",
+            "while I can only talk to you through chat.",
+            "And coffee gets to be held in your hands",
+            "while I can only imagine holding your hand",
+            "Can I hold your hand?"
+          ],
+          [
+            "I can’t wait to taste your coffee",
+            "Coffee gets to be with you every day",
+            "while I can only talk to you through chat.",
+            "and it’s always in your hands",
+            "while I can only imagine holding your hand",
+            "Can I hold your hand?"
+          ]
+        ],
+        "answer": [
+          "If that’s the case, then gladly oppa",
+          "Oppa, is this even real?"
+        ]
+      }
     ],
-    "answer": [
-      "So many things, Oppa! Your stage aura, your subtle smile, or when you hit that high note live that gives me chills! I always pay attention to how you interact with the other members!",
-      "Because you're all so genuine, Oppa! Every song and every effort you put in always gives me positive energy. That's why I can't move on!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Wow, you really notice even the smallest things, huh? That truly touches my heart.",
-        "It makes me even more motivated to keep giving my best.",
-        "Is there anything you want to tell me directly?"
-      ],
-      [
-        "Ah, sincerity... I'm so glad that comes across to you all.",
-        "By the way, if I ever had some free time, is there a dream place you'd want to go with me?"
-      ]
+    [
+      {
+        "ask": [
+          [
+            "yn",
+            "I passed by the flower garden earlier, the flowers are starting to bloom",
+            ""
+          ]
+        ],
+        "answer": [
+          "wow, it must be really beautiful oppa",
+          "yeah oppa, I passed by there too"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "yeah, it was so pretty",
+            "made me think, it’d be fun to go there together"
+          ],
+          [
+            "did you see it too?",
+            " made me think, it’d be fun to go there together"
+          ]
+        ],
+        "answer": [
+          "Oppa, I’m looking forward to it",
+          "let’s go oppa, I wanna see the flowers with you too"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "What kind of flowers do you like?",
+            "Because honestly, I think you look prettier than the flowers.",
+            "I’m scared the flowers would get shy next to you"
+          ],
+          [
+            "I’ll pick you up tomorrow afternoon",
+            "BTW, what kind of flowers do you like?",
+            "Because honestly, I think you look prettier than the flowers.",
+            "I’m scared the flowers would get shy next to you"
+          ]
+        ],
+        "answer": [
+          "I love every flower that oppa gives me",
+          "I like the one who gives the flowers, oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "really?",
+            "I think there’s a package in front of your house",
+            "since you love every flower I give, don’t blame me if flowers show up at your door every day",
+            "but I’m curious, how are you prettier than flowers?"
+          ],
+          [
+            "I think there’s a package in front of your house",
+            "since you like the one who gives the flowers, don’t blame me if flowers show up at your door every day",
+            "but I’m curious, how are you prettier than flowers?"
+          ]
+        ],
+        "answer": [
+          "Oppa, you’re making me blush",
+          "because of my mom’s genes, oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You really are prettier than flowers",
+            "If we go to the flower garden, what color outfit would you wear?",
+            "’Cause I’m thinking of bringing flowers that match your outfit"
+          ],
+          [
+            "I should thank your mom then",
+            "If we go to the flower garden, what color outfit would you wear?",
+            "’Cause I’m thinking of bringing flowers that match your outfit"
+          ]
+        ],
+        "answer": [
+          "I think I’ll wear something red oppa",
+          "maybe I’ll wear pink"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Perfect, then I’ll bring the prettiest red roses",
+            "When we go to the flower garden, I’ll bring my camera too",
+            "’Cause I need to show my mom"
+          ],
+          [
+            "Hmm, I just thought about buying pink tulips",
+            "When we go to the flower garden, I’ll bring my camera too",
+            "’Cause I need to show my mom"
+          ]
+        ],
+        "answer": [
+          "Of course oppa",
+          "Alright, I’ll help take pictures of you then oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Then I’ll take pictures of you too",
+            "It’d be such a waste not to capture it.",
+            "I’ll show my mom later",
+            "So she can see that her future daughter-in-law is prettier than flowers",
+            "But I still need your permission first, is it okay if I take your picture?"
+          ],
+          [
+            "Why are you taking pictures of me?",
+            "Let me take pictures of you instead",
+            "It’d be such a waste not to capture it.",
+            "I’ll show my mom later",
+            "So she can see that her future daughter-in-law is prettier than flowers",
+            "But still, I need your permission first, is it okay if I take your picture?"
+          ]
+        ],
+        "answer": [
+          "If that’s the case, then gladly oppa",
+          "Oppa, I’m already ready to go to the flower garden hehe"
+        ]
+      }
     ],
-    "answer": [
-      "Of course! Oppa, please take care of your health, don't get sick! Don't overwork yourself. We're always here supporting you!",
-      "Oppa! I really want to go on your world tour concerts with you! Or if we're relaxing, I'd love to have a picnic in a quiet park and just chat."
-    ]
-  },
-  {
-    "ask": [
-      [
-        "World tour with you? That's a great idea, I hope it comes true.",
-        "I'll work hard to make that happen.",
-        "Unfortunately, I have to go back to practice in a bit, but it was really nice talking to you."
-      ],
-      [
-        "A quiet park picnic sounds so peaceful.",
-        "I'll keep that idea in mind. Wow, time really flies, huh?",
-        "I have to continue with my schedule, thank you so much for keeping me company."
-      ]
+    [
+      {
+        "ask": [["yn", "Do you like ice cream?", ""]],
+        "answer": ["I love it so much oppa", "Not really a fan oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Wanna grab some ice cream this afternoon?",
+            "I suddenly feel like taking you out for ice cream"
+          ],
+          [
+            "Why don’t you like ice cream?",
+            "I was planning to take you out for ice cream this afternoon"
+          ]
+        ],
+        "answer": [
+          "I’d love to eat ice cream with you oppa, but can I pick the flavor?",
+          "Sure oppa, if it’s with you I’ll start liking ice cream."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’ll pick you up this afternoon",
+            "What’s your favorite flavor?",
+            "Let me guess... Vanilla?"
+          ],
+          [
+            "I’ll pick you up this afternoon",
+            "What’s your favorite flavor?",
+            "Let me guess... Dark choco?"
+          ]
+        ],
+        "answer": ["Whoa, how did you know oppa?", "You’re totally right oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Because you’re as sweet as vanilla",
+            "And I always pay attention to your stories",
+            "You like vanilla with just a bit of topping",
+            "What color toppings do you like?"
+          ],
+          [
+            "You’re already sweet, so eating more sweets might not be good for your health",
+            "I’ve also listened to your stories a lot",
+            "You’re the type who doesn’t like things too sweet, maybe a bit bitter but still with some topping",
+            "What color toppings do you like?"
+          ]
+        ],
+        "answer": [
+          "Colorful toppings oppa",
+          "Any color’s fine oppa, but I prefer fruit toppings oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You really suit those colorful vibes",
+            "You always color my days too",
+            "But honestly, you’re sweeter than ice cream"
+          ],
+          [
+            "I also love colorful fruit toppings",
+            "They fit you perfectly since you always brighten my day",
+            "But honestly, you’re sweeter than ice cream"
+          ]
+        ],
+        "answer": [
+          "Oppa, stop it, you’re making me blush",
+          "You’re such a sweet talker oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "But honestly, I’m nervous taking you to the ice cream shop",
+            "I’m scared my ice cream will melt",
+            "But you’ll have to take responsibility if it does"
+          ],
+          [
+            "But honestly, I’m nervous taking you to the ice cream shop",
+            "I’m scared my ice cream will melt",
+            "But you’ll have to take responsibility if it does"
+          ]
+        ],
+        "answer": [
+          "Why would your ice cream melt?",
+          "Why do I have to take responsibility for that?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Because when you smile,",
+            "I forget all about my ice cream.",
+            "I’m afraid if you keep smiling,",
+            "I won’t even eat my ice cream ‘cause I’ll be too focused on your smile.",
+            "So yeah, you gotta take responsibility for that."
+          ],
+          [
+            "Yeah, you really have to take responsibility,",
+            "‘Cause when you smile,",
+            "I forget all about my ice cream.",
+            "If you keep smiling,",
+            "I might not even eat my ice cream ‘cause I’ll be too distracted by your smile."
+          ]
+        ],
+        "answer": [
+          "That’s enough oppa, you’re too sweet for me",
+          "If it’s with you oppa, taking responsibility doesn’t sound so bad"
+        ]
+      }
     ],
-    "answer": [
-      "Okay, Oppa! Good luck with practice! I'm also super happy I could 'talk' to you, even for a little while. Take care!",
-      "Yes, Oppa, keep up the good work! I should be thanking you for 'chatting' with me. You take care of your health too!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "You too, take good care of your health.",
-        "I won't forget our conversation today, yn.",
-        "See you later!"
-      ],
-      [
-        "Of course. I'll cherish every word you said.",
-        "See you again, yn. Hope your day gets even better after this!"
-      ]
+    [
+      {
+        "ask": [["yn", "It's raining outside, do you like the rain?", ""]],
+        "answer": [
+          "I really love it, oppa. It feels calm and cozy.",
+          "Not really, oppa. But if it’s raining with you, then I like it."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "If I bring you some hot chocolate, would you want it?",
+            "Because weather like this is perfect for something warm together."
+          ],
+          [
+            "If I bring you some hot chocolate, would you want it?",
+            "Because weather like this is perfect for something warm together."
+          ]
+        ],
+        "answer": [
+          "I’d love that, oppa. I’ll wait for the hot chocolate.",
+          "Let me make the hot chocolate instead, oppa. You just come over to my place."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’ll bring some cookies too.",
+            "Do you like them soft or crunchy?",
+            "Let me guess… crunchy?"
+          ],
+          [
+            "Okay, I’m on my way to your place.",
+            "I’ll bring some cookies too.",
+            "Do you like them soft or crunchy?",
+            "Let me guess… soft?"
+          ]
+        ],
+        "answer": ["You guessed it right, oppa!", "How did you know, oppa?"]
+      },
+      {
+        "ask": [
+          [
+            "Because you seem like the type who likes crunchy but not too sweet cookies.",
+            "Perfect match, since you don’t need sugar to be sweet.",
+            "Oh right, should I bring a blanket too?"
+          ],
+          [
+            "I remember you said you like soft things.",
+            "Like stuffed animals, or… maybe a blanket?",
+            "Should I bring one too?"
+          ]
+        ],
+        "answer": [
+          "Bring the blanket too, oppa!",
+          "Hot chocolate and a blanket so romantic, I love it."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "A blanket will be perfect.",
+            "I can’t wait to see you.",
+            "By the way, do you like listening to music when it rains?"
+          ],
+          [
+            "A blanket will be perfect.",
+            "I can’t wait to see you.",
+            "By the way, do you like listening to music when it rains?"
+          ]
+        ],
+        "answer": [
+          [
+            "Yes, I love it. It makes everything feel more magical.",
+            "I do, especially if it’s soft jazz or acoustic songs."
+          ],
+          [
+            "Yes, I love it. It makes everything feel more magical.",
+            "I do, especially if it’s soft jazz or acoustic songs."
+          ]
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Great! I’ll bring my guitar then.",
+            "Maybe we can sing together while listening to the rain."
+          ],
+          [
+            "Great! I’ll bring my guitar then.",
+            "Maybe we can sing together while listening to the rain."
+          ]
+        ],
+        "answer": [
+          [
+            "That sounds amazing, oppa. I can’t wait!",
+            "You’re full of surprises, oppa. This is going to be so much fun!"
+          ],
+          [
+            "That sounds amazing, oppa. I can’t wait!",
+            "You’re full of surprises, oppa. This is going to be so much fun!"
+          ]
+        ]
+      },
+      {
+        "ask": [
+          ["I’m glad you think so.", "See you soon, yn."],
+          ["I’m glad you think so.", "See you soon, yn."]
+        ],
+        "answer": [
+          ["See you soon, oppa!", "Hurry up, I’m waiting!"],
+          ["See you soon, oppa!", "Hurry up, I’m waiting!"]
+        ]
+      }
     ],
-    "answer": [
-      "Definitely, Oppa! I'll never forget! See you in my dreams tonight! Bye-bye!",
-      "You too, Oppa! My day's automatically brighter after talking to you! See you!"
+    [
+      {
+        "ask": [
+          [
+            "yn",
+            "Do you still remember that little bookstore at the corner of the street?",
+            ""
+          ]
+        ],
+        "answer": [
+          "Of course, oppa. That place is super cozy.",
+          "Yeah, oppa. I really love that place."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I passed by there earlier today, the smell of new books is still the same.",
+            "It reminded me of you, when you were busy looking for the novel you liked."
+          ],
+          [
+            "I stopped by there for a bit.",
+            "It reminded me of you, when you were busy looking for the novel you liked."
+          ]
+        ],
+        "answer": [
+          "Oppa, you even remember small things like that.",
+          "Wow, really oppa? You still remember?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Of course I do.",
+            "I almost bought it for you, but I was afraid you already had it.",
+            "Did you buy it yet?"
+          ],
+          [
+            "I saw the novel, and it was exactly the one you wanted.",
+            "I almost bought it for you, but I was afraid you already had it.",
+            "Did you buy it yet?"
+          ]
+        ],
+        "answer": [
+          "Not yet, oppa. I didn’t know it was restocked hehe.",
+          "Yeah, I already have it, oppa. But I’m happy you remembered."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Then I guess I have to go back there again.",
+            "But this time, you have to come with me.",
+            "So we can read together at that same little corner seat."
+          ],
+          [
+            "Now I kinda wanna take you there again.",
+            "We could sit together, read, and talk softly like we used to."
+          ]
+        ],
+        "answer": [
+          "I’d love that, oppa. I really miss the vibe there.",
+          "Let’s go, oppa! But I’ll choose the book for us, okay?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal, but don’t pick a book that’ll make me sleepy.",
+            "’Cause I just wanna focus on hearing you read.",
+            "You always sound so calm when you read."
+          ],
+          [
+            "Okay, but you have to read it out loud for me.",
+            "Your voice when you read is seriously so calming."
+          ]
+        ],
+        "answer": [
+          "Okay oppa, I’ll pick a good one to read.",
+          "Then I’ll read it slowly so you’ll fall asleep hehe."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You know what? When you read, I actually focus more on you than the book.",
+            "It’s like every word sounds prettier when it comes from your lips."
+          ],
+          [
+            "Not gonna lie, when you read, I always lose track of the page.",
+            "’Cause my eyes are too busy looking at you."
+          ]
+        ],
+        "answer": [
+          "Oppa, don’t say things like that, you’ll make my heart race.",
+          "Oppa, then I won’t be able to focus on reading!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "That’s fine, as long as I get to see you smile between those bookshelves again.",
+            "I’ll buy that book and write inside it:",
+            "‘For you, the one who makes every page of my life feel warm.’"
+          ],
+          [
+            "That’s fine, as long as I get to see you smile between those bookshelves again.",
+            "I’ll buy that book and write inside it:",
+            "‘For you, the one who makes every page of my life feel warm.’"
+          ]
+        ],
+        "answer": [
+          "Oppa, that’s the sweetest line I’ve ever heard.",
+          "Then every time I read that book, I’ll remember you, oppa."
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          [
+            "yn",
+            "Do you still take care of the little plant I gave you back then?",
+            ""
+          ]
+        ],
+        "answer": [
+          "Of course, oppa! It’s grown so tall now.",
+          "Yeah, oppa, I take care of it every morning."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Seriously? Wow, I’m so proud of you!",
+            "Do you water it every day?"
+          ],
+          [
+            "I didn’t expect it to grow that well in your hands.",
+            "You must be super dedicated to take care of it."
+          ]
+        ],
+        "answer": [
+          "Yeah, oppa, every morning before the sun gets too hot.",
+          "Hehe, I water it while remembering the time you gave it to me."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Now I really wanna see it.",
+            "Maybe I’ll come over next time and help you water your plants.",
+            "But don’t blame me if I end up just staring at you instead."
+          ],
+          [
+            "I’m curious, are the leaves getting thick already?",
+            "Maybe I’ll come over next time and help you water your plants.",
+            "But don’t blame me if I end up just staring at you instead."
+          ]
+        ],
+        "answer": [
+          "Sure, oppa, I’ll get the gardening tools ready then.",
+          "Oppa, you’re looking at me instead of the plants again!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Alright then, I’ll come over this Sunday.",
+            "How come you look prettier than the flowers in the pot?",
+            "But I wanna know, what color flowers do you like?",
+            "So I can buy the seeds and we can plant them together."
+          ],
+          [
+            "You’re even prettier than the flowers in the pot.",
+            "But I wanna know, what color flowers do you like?",
+            "So I can buy the seeds and we can plant them together."
+          ]
+        ],
+        "answer": [
+          "I like white flowers, oppa, they feel so calm.",
+          "Any flower’s fine, as long as I get to plant it with you, oppa."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Then I’ll bring daisy seeds for you.",
+            "They say daisies symbolize loyalty.",
+            "Perfect for us."
+          ],
+          [
+            "I like white roses too.",
+            "They’re kinda like you—simple, but always calming."
+          ]
+        ],
+        "answer": [
+          "You’re so sweet, oppa.",
+          "Oppa, our flowers are gonna bloom so beautifully."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "I’m sure the flowers will bloom beautifully, ‘cause you’re the one taking care of them.",
+            "You must be so happy seeing them grow.",
+            "But honestly, I love seeing you smile in front of them even more."
+          ],
+          [
+            "You must be so happy seeing the flowers grow.",
+            "But honestly, I love seeing you smile in front of them even more."
+          ]
+        ],
+        "answer": [
+          "Oppa, you really know how to say nice things.",
+          "If you water the flowers, oppa, they’ll definitely grow even better."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "When our flowers bloom, I wanna give them a name.",
+            "Let’s call them ‘Us’."
+          ],
+          [
+            "Deal, I’ll water our flowers every day.",
+            "When they bloom, I wanna give them a name.",
+            "Let’s call them ‘Us’."
+          ]
+        ],
+        "answer": [
+          "That name’s so cute, oppa, I love it.",
+          "Oppa, from now on I wanna do gardening with you every day."
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          ["yn", "Have you ever cooked together with someone before?", ""]
+        ],
+        "answer": [
+          "Not yet, oppa. I usually cook alone.",
+          "Yeah, I have, but it wasn’t as fun as it would be with you, oppa hehe."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Hehe, wanna cook together with me?",
+            "I wanna see you cooking in the kitchen."
+          ],
+          ["What do you think we should cook?"]
+        ],
+        "answer": [
+          "Totally, oppa! Let’s make something simple.",
+          "Sure, oppa, I’d love to try cooking with you."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Fried rice sounds good, but not too spicy, okay? I don’t want you to burn your tongue.",
+            "I’ll help with the stirring so you won’t get tired."
+          ],
+          [
+            "Fried rice sounds good, but not too spicy, okay? I don’t want you to burn your tongue.",
+            "I’ll help with the stirring so you won’t get tired."
+          ]
+        ],
+        "answer": [
+          "Hehe, I can handle a little spice, oppa.",
+          "Oppa~ if we make fried rice, I’ll feed you too!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal, but don’t fight me for the spatula.",
+            "‘Cause if you’re busy cooking, I can just watch you from the side."
+          ],
+          [
+            "You look so focused when you cook, it’s adorable.",
+            "But don’t smile, or I won’t be able to focus."
+          ]
+        ],
+        "answer": [
+          "Oppa, stop teasing or the food won’t taste good 😆",
+          "Hehe, if you keep staring at me, I’ll get nervous."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "It’s okay if it doesn’t taste perfect, what matters is we made it together.",
+            "Besides, they say food made with someone you care about always tastes good."
+          ],
+          [
+            "Let me do the taste test so I know how good your cooking really is.",
+            "It’s okay if it doesn’t taste perfect, what matters is we made it together.",
+            "Besides, they say food made with someone you care about always tastes good."
+          ]
+        ],
+        "answer": [
+          "Oppa, you’re being cheesy again.",
+          "Then you taste it first, oppa. I’ll fix it if it’s not perfect yet."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "You know what? I really love moments like this—cooking together.",
+            "It’s simple but feels so warm."
+          ],
+          [
+            "I bet it already tastes perfect.",
+            "Just like you—nothing more, nothing less.",
+            "You know what? I really love moments like this—cooking together.",
+            "It’s simple but feels so warm."
+          ]
+        ],
+        "answer": [
+          "You’re too sweet, oppa 🥺",
+          "Yeah, oppa, cooking together feels so peaceful."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "When the food’s ready, let’s eat together, okay?",
+            "I wanna sit close to you while listening to your stories."
+          ],
+          [
+            "When the food’s ready, let’s eat together, okay?",
+            "I wanna sit close to you while listening to your stories.",
+            "After eating, I’ll help clean up too.",
+            "‘Cause I don’t wanna leave you alone in the kitchen."
+          ]
+        ],
+        "answer": ["That’s so sweet, oppa 😳", "Promise, oppa? I can’t wait!"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "Do you like animals?", ""]],
+        "answer": [
+          "I love them so much, oppa! Especially cats 🐱",
+          "I love all cute animals, like tiny puppies 🐶"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Then, wanna go to the pet shop with me this weekend?",
+            "I found this super cute place with lots of baby animals."
+          ],
+          [
+            "Then, wanna go to the pet shop with me this weekend?",
+            "I found this super cute place with lots of baby animals.",
+            "So we can play with them together."
+          ]
+        ],
+        "answer": [
+          "I’d love to, oppa! I’ve been wanting to go to a pet shop 😍",
+          "Sure, oppa! But don’t fight me over the cutest one 😆"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aww, but I bet you’re even cuter.",
+            "I’ll help you pick the cutest one.",
+            "So every time you see it, you’ll think of me."
+          ],
+          [
+            "I’ll help you pick the cutest one.",
+            "So every time you see it, you’ll think of me."
+          ]
+        ],
+        "answer": [
+          "Oppa~ why are you like this 😳",
+          "Then I want one that looks like you, oppa — the cute one 😝"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Then we gotta find the sweetest one, right?",
+            "Like you when you smile."
+          ],
+          [
+            "If you call me cute like that, I swear the world goes into slow motion.",
+            "Then we gotta find the sweetest one, right?",
+            "Like you when you smile."
+          ]
+        ],
+        "answer": [
+          "You’re so dramatic, oppa 😆 but I love hearing that.",
+          "Oh my gosh, oppa, stop it or I’ll keep smiling nonstop!"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "That’s fine, I love seeing you smile anyway.",
+            "I can already tell you’d be such a loving pet owner."
+          ],
+          ["I can already tell you’d be such a loving pet owner."]
+        ],
+        "answer": [
+          "Hehe, I really love animals. I’d take good care of it for sure.",
+          "You’d totally be great with a pet too, oppa."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Maybe someday we can take care of one together?",
+            "Give it a name that means something special to both of us.",
+            "I can already imagine us playing with our little pet at the park every afternoon."
+          ],
+          [
+            "Maybe someday we can take care of one together?",
+            "I can already imagine us playing with our little pet at the park every afternoon."
+          ]
+        ],
+        "answer": [
+          "Aww that sounds so cute 🥺",
+          "I’d love that, oppa — as long as you teach me how to take care of it."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal! But on one condition.",
+            "You have to come over often to help me feed it.",
+            "That way, I’ll always have a reason to see you."
+          ],
+          ["That way, I’ll always have a reason to see you."]
+        ],
+        "answer": [
+          "Oppa~ you’re such a flirt 😳",
+          "If that’s the reason, then I definitely won’t say no, oppa 🥰"
+        ]
+      }
     ]
-  }
-]
   ],
   "chat_ind": [
     [
@@ -1551,108 +2700,1160 @@
       }
     ],
     [
-  {
-    "ask": [
-      [
-        "Hai, yn! Sedang apa hari ini?",
-        "Baru selesai latihan, dan entah kenapa kamu terlintas di pikiranku."
-      ],
-      [
-        "Kamu lagi sibuk apa sekarang?"
-      ]
+      {
+        "ask": [["yn", "apa kabar?"]],
+        "answer": ["baik oppa", "tidak begitu baik oppa"]
+      },
+      {
+        "ask": [
+          [
+            "apakah kamu lelah?",
+            "Aku masih gak percaya kamu beneran datang ke konserku tadi malam"
+          ],
+          [
+            "apakah kamu lelah?",
+            " Aku masih gak percaya kamu beneran datang ke konserku tadi malam"
+          ]
+        ],
+        "answer": [
+          "Tidak oppa, Aku juga gak nyangka oppa, kamu bisa liat aku dari panggung",
+          "lumayan oppa, Lampu konser kan  terang banget, aku pikir gak bakal kelihatan dari panggung."
+        ]
+      },
+      {
+        "ask": [
+          [
+            " Syukurlah",
+            "Tadi malam pas bagian reff lagu kedua tadi lupa lirik gara-gara lihatin kamu",
+            "Apakah kamu melihatnya?"
+          ],
+          [
+            " Kamu harus beristirahat",
+            "Aku senang banget kamu datang konserku",
+            "Tadi malam pas bagian reff lagu kedua tadi lupa lirik gara-gara lihatin kamu",
+            "Kamu bisa lihat aku gak dari sana?"
+          ]
+        ],
+        "answer": [
+          "Ya aku melihatnya oppa, jadi aku ganggu dong?",
+          "Aku gak lihat soalnya jauh banget, berarti aku ganggu oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "ganggu banget",
+            "rasanya kaya dikasih energi tambahan tiap liat kamu",
+            "tapi aku pengen turun panggung buat nyanyi deket kamu langsung"
+          ],
+          [
+            "gak ganggu dong",
+            "tapi aku pengen turun panggung buat nyanyi deket kamu langsung"
+          ]
+        ],
+        "answer": [
+          "oppa jangan begitu aku malu",
+          "benarkah? Aku sangat menantikan oppa nyanyi di sampingku"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Gimana ya soalnya kamu cantik banget tadi malam",
+            "Kamu bersinar banget sampai lampu panggung kalah terang ",
+            "Kamu senang gak datang ke konserku"
+          ],
+          [
+            "tentu saja",
+            "Kamu bersinar banget sampai lampu panggung kalah terang ",
+            "Kamu senang gak datang ke konserku"
+          ]
+        ],
+        "answer": ["oppa kalau ngomong manis sekali", "senang sekali oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Haha, padahal aku emang sengaja nyanyi sambil liat kamu.",
+            "Kamu paling suka lagu yang mana dari semua yang aku bawain malam ini?"
+          ],
+          [
+            "kamu yakin?",
+            "Aku berharap kamu datang terus ke konserku",
+            "Kamu paling suka lagu yang mana dari semua yang aku bawain malam ini?"
+          ]
+        ],
+        "answer": [
+          "Yang terakhir, soalnya setiap katanya kayak kamu tulus banget nyanyinya",
+          "aku suka semua lagu yang dinyanyikan oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku emang buat lagu itu buat kamu",
+            "Setiap nyanyi lagu itu aku selalu ingat kamu",
+            "dan aku ingin nyanyi lagu itu di samping kamu",
+            "Kamu tau gak, aku sengaja mengulur waktu di panggung cuma biar bisa ngeliat kamu lebih lama. ",
+            "Kamu sadar gak sih?"
+          ],
+          [
+            "Ada lagu yang terakhir itu khusus aku ciptain buat kamu",
+            "Setiap nyanyi lagu itu aku selalu ingat kamu",
+            "dan aku ingin nyanyi lagu itu di samping kamu",
+            "Kamu tau gak, aku sengaja mengulur waktu di panggung cuma biar bisa ngeliat kamu lebih lama. ",
+            "Kamu sadar gak sih?"
+          ]
+        ],
+        "answer": [
+          "Oppa, kamu gak baik buat jantungku ",
+          "apakah aku benar-benar spesial bagimu?"
+        ]
+      }
     ],
-    "answer": [
-      "OMG, Oppa! Aku kaget banget! Aku baik-baik aja, lagi santai di kasur sambil *scrolling* postingan kalian, hehe.",
-      "Aku baik! Aku lagi nonton ulang salah satu *fancam* legendaris Oppa! Oppa sendiri gimana, gak capek habis latihan?"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Syukurlah kalau kamu baik-baik saja. Aku juga baik, cuma agak pegal.",
-        "*Fancam* yang mana? Yang dari konser terakhir, ya?",
-        "Ngomong-ngomong, bagaimana harimu?"
-      ],
-      [
-        "Sedikit capek, iya, tapi langsung semangat lagi karena kepikiran kamu. Hehe.",
-        "Ada hal seru atau menarik yang terjadi di harimu hari ini?"
-      ]
+    [
+      {
+        "ask": [["yn", "apa kamu senang datang ke fanmeetku?"]],
+        "answer": ["senang sekali oppa", "tidak begitu senang oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Aku khawatir kamu kelelahan",
+            "Aku masih gak percaya kamu beneran datang ke fanmeet ku tadi siang"
+          ],
+          [
+            "Aku khawatir kamu kelelahan",
+            " Aku masih gak percaya kamu beneran datang  ke fanmeet ku tadi siang"
+          ]
+        ],
+        "answer": [
+          "sedikit lelah tapi aku sangat senang bisa bertemu oppa",
+          "tidak lelah oppa, tapi aku hanya ingin durasi ketemu oppa ebih lama."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kamu harus beristirahat?",
+            " ngomong ngomong hadiah yang kamu kasih tadi",
+            "itu kamu yang bikin sendiri?",
+            "Soalnya aku cari di toko yang sama tidak ada"
+          ],
+          [
+            "Aku juga ingin menghabiskan waktu lebih lama sama kamu",
+            " ngomong ngomong hadiah yang kamu kasih tadi",
+            "itu kamu yang bikin sendiri?",
+            "Soalnya aku cari di toko yang sama tidak ada"
+          ]
+        ],
+        "answer": [
+          "Iya oppa , kok oppa bisa tau?",
+          "Bukan oppa, aku memesan custom sama temanku"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "iya aku taut",
+            "Aku bisa ngerasain effort-nya, loh",
+            "Aku penasaran, kenapa kamu pilih warna itu buat bungkusnya? "
+          ],
+          [
+            "wah terima kasih banyak",
+            "aku sangat suka hadiahnya",
+            "Aku penasaran, kenapa kamu pilih warna itu buat bungkusnya?"
+          ]
+        ],
+        "answer": [
+          "Soalnya aku inget warna itu sering kamu pake di panggung",
+          "soalnya aku tau oppa suka warna itu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Rasanya pas banget sama seleraku",
+            "Kamu tau gak, waktu aku buka hadiahnya di belakang panggung ",
+            "Aku senyum lama banget."
+          ],
+          [
+            "Kamu selalu tau dengan apa yang aku suka",
+            "Kamu tau gak, waktu aku buka hadiahnya di belakang panggung ",
+            "Aku senyum lama banget."
+          ]
+        ],
+        "answer": [
+          "Wah, berarti tujuanku berhasil bikin kamu senyum",
+          "aku gak tau, kenapa oppa?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Itu kayak ada energimu di situ..",
+            "Aku suka banget tulisan kecil di kartu ucapannya. Kamu tulis sendiri?"
+          ],
+          [
+            "Itu kayak ada energimu di situ.",
+            "Aku berharap kamu datang terus ke fanmeet ku",
+            "ku suka banget tulisan kecil di kartu ucapannya. Kamu tulis sendiri?"
+          ]
+        ],
+        "answer": [
+          "Iya oppa, tulisan tangan biar kamu bisa ngerasa itu dari hati",
+          "Kenapa oppa? Tulisanya jelek ya"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku bisa merasakan setiap ketulusan yang kamu tulis",
+            "Setiap aku baca surat itu aku selalu ingat kamu",
+            "dan aku ingin kamu yang bacain buat aku nanti"
+          ],
+          [
+            "Tidak, tulisanmu terlalu indah ",
+            "Aku bisa merasakan setiap ketulusan yang kamu tulis",
+            "Setiap aku baca surat itu aku selalu ingat kamu",
+            "dan aku ingin kamu yang bacain buat aku nanti"
+          ]
+        ],
+        "answer": [
+          "Oppa kamu berbicara sangat manis, aku menantikan membacakan surat itu secara langsung  ",
+          "Oppa, melihat oppa senang menerima kadoku, itu sangat melegakan untukku"
+        ]
+      }
     ],
-    "answer": [
-      "Yang itu, Oppa! Ya ampun, Oppa memang sempurna! Hariku cukup menyenangkan, baru pulang kuliah.",
-      "Seru banget, Oppa! Aku ketemu teman-teman *fans* Oppa yang lain, terus kami seru-seruan bahas momen-momen lucu kalian di *variety show*!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Hahaha, kalian ini ada-ada saja. Aku senang dengar kalian bisa tertawa karena kami.",
-        "Aku selalu penasaran, dari semua penampilan kami, bagian mana yang benar-benar bikin kamu 'terpukau'?",
-        "Atau ada detail kecil yang cuma kalian yang sadar?"
-      ],
-      [
-        "Benarkah? Berarti kami berhasil mencerahkan harimu ya.",
-        "Ngomong-ngomong, apa yang membuat kalian begitu luar biasa loyal sama kami?",
-        "Aku sering bertanya-tanya apa yang membuat kalian semua bertahan."
-      ]
+    [
+      {
+        "ask": [["yn", "kapan kita datang ke coffee shop itu lagi?", ""]],
+        "answer": [
+          "aku ingin sekali oppa",
+          "mungkin tidak dalam waktu dekat oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "apakah kamu sibuk sore ini?",
+            "Tempatnya jadi terasa sepi banget kalau tanpa kamu di sana"
+          ],
+          [
+            "apakah kamu sibuk?",
+            " Tempatnya jadi terasa sepi banget kalau tanpa kamu di sana"
+          ]
+        ],
+        "answer": [
+          "tidak oppa, aku free sore ini",
+          "Hanya ada sedikit urusan,Tapi dengan senang hati kalau oppa mengajakku."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Entah kenapa",
+            "Aku masih kepikiran momen waktu kamu nunduk sambil aduk kopi itu.",
+            "Kamu biasanya suka kopi manis atau pahit?"
+          ],
+          [
+            "Aku akan menjemputmu nanti sore",
+            "Aku masih kepikiran momen waktu kamu nunduk sambil aduk kopi itu.",
+            "Kamu biasanya suka kopi manis atau pahit?"
+          ]
+        ],
+        "answer": ["Pahit oppa", "Manis oppa"]
+      },
+      {
+        "ask": [
+          [
+            "aku tau kenapa kamu suka pahit",
+            "Soalnya kamu udah manis banget",
+            "Tapi aku  penasaran, kenapa kamu selalu senyum saat meminum kopi? "
+          ],
+          [
+            "Kamu sudah terlalu manis",
+            "Jadi jangan minum yang manis terus",
+            "Tapi aku  penasaran, kenapa kamu selalu senyum saat meminum kopi?"
+          ]
+        ],
+        "answer": [
+          "Soalnya Kopi itu mengingatkan dengan oppa",
+          "Karna aku tau oppa suka kopi"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kenapa? Apakah aku terlalu pahit untukmu?",
+            "Kamu tau gak, Sejak di coffee shop itu, aku gak bisa berhenti mikirin kamu",
+            "Aku senyum setiap mengingat momen itu"
+          ],
+          [
+            "Kamu selalu tau dengan apa yang aku suka",
+            "Kamu tau gak, Sejak di coffee shop itu, aku gak bisa berhenti mikirin kamu",
+            "Aku senyum setiap mengingat momen itu"
+          ]
+        ],
+        "answer": [
+          "Aku juga tidak bisa berhenti memikirkanmu oppa",
+          "aku gak tau, kenapa oppa mikirin aku?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku penasaran bagaimana rasanya kopi buatanmu",
+            "Kapan ya aku bisa mencobanya?",
+            "Kadang aku iri sama kopi di coffee shop itu "
+          ],
+          [
+            "Aku selalu berpikir .",
+            "Kapan ya aku bisa mencoba kopi buatanmu?",
+            "Kadang aku iri sama kopi di coffee shop itu"
+          ]
+        ],
+        "answer": [
+          "Segera oppa, kenapa oppa iri?",
+          "Oppa bisa mencobanya kalau oppa mau, oppa lebih baik dari kopi di coffee shop itu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku akan menantikan meminum kopi buatanmu",
+            "Kopi bisa nemenin kamu setiap hari",
+            "sementara aku cuma bisa lewat chat.",
+            "Dan Kopi bisa selalu di genggaman tanganmu",
+            "sementara aku hanya bisa membayangkan menggenggam tanganmu",
+            "Bolehkah aku menggenggam tanganmu?."
+          ],
+          [
+            "Aku tidak sabar meminum kopi buatanmu",
+            " Kopi bisa nemenin kamu setiap hari",
+            "sementara aku cuma bisa lewat chat.",
+            "dan bisa selalu di genggaman tanganmu",
+            "sementara aku hanya membayangkan menggenggam tanganmu",
+            "Bolehkah aku menggenggam tanganmu."
+          ]
+        ],
+        "answer": [
+          "Kalau gitu dengan senang hati oppa ",
+          "Oppa apakah ini nyata? "
+        ]
+      }
     ],
-    "answer": [
-      "Banyak hal, Oppa! Aura panggung Oppa, senyum tipis Oppa, atau waktu Oppa berhasil mencapai nada tinggi *live* yang bikin merinding! Aku selalu perhatiin juga gimana Oppa berinteraksi sama member lain!",
-      "Karena kalian semua tulus, Oppa! Setiap lagu dan usaha yang kalian berikan selalu memberiku energi positif. Makanya aku gak bisa *move on*!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Wow, kamu benar-benar memperhatikan hal sekecil itu, ya? Itu benar-benar menyentuh hatiku.",
-        "Itu membuatku makin termotivasi untuk terus memberikan yang terbaik.",
-        "Is there anything you want to tell me directly?"
-      ],
-      [
-        "Ah, ketulusan... Aku sangat senang itu tersampaikan pada kalian semua.",
-        "Ngomong-ngomong, kalau aku punya waktu luang, ada tempat impian yang ingin kamu kunjungi bersamaku?"
-      ]
+    [
+      {
+        "ask": [
+          ["yn", "aku tadi lewat depan taman bunga, bunganya mulai bermekaran"]
+        ],
+        "answer": [
+          "wah pasti indah banget oppa",
+          "iya oppa aku juga sempat lewat disana "
+        ]
+      },
+      {
+        "ask": [
+          [
+            "iya indah banget ",
+            "jadi kepikiran, seru kali ya kalau jalan kesana bareng"
+          ],
+          [
+            "apakah kamu juga melihatnya?",
+            " jadi kepikiran, seru kali ya kalau jalan kesana bareng"
+          ]
+        ],
+        "answer": [
+          "Oppa aku menantikanya",
+          "ayo oppa, aku juga mau lihat bunga bareng oppa."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kamu suka bunga apa?",
+            "Soalnya aku lihat lihat kamu lebih cantik dari bunganya.",
+            "Aku takut bunganya malu karena kamu lebih cantik dari dia"
+          ],
+          [
+            "Aku akan menjemputmu besok sore ",
+            "BTW Kamu suka bunga apa?",
+            "Soalnya aku lihat lihat kamu lebih cantik dari bunganya.",
+            "Aku takut bunganya malu karena kamu lebih cantik dari dia"
+          ]
+        ],
+        "answer": [
+          "Aku suka semua bunga yang oppa kasih ",
+          "Aku suka yang ngasih bunga oppa "
+        ]
+      },
+      {
+        "ask": [
+          [
+            "apakah benar?",
+            "Kayanya di depan rumah ada paket deh itu",
+            "karna kamu suka setiap bunga yang aku kasih maka jangan salahin aku tiap hari ada bunga di depan rumah",
+            "Tapi aku  penasaran, kenapa kamu bisa lebih cantik dari bunga? "
+          ],
+          [
+            "Kayanya di depan rumah ada paket deh itu",
+            "karna kamu suka yang ngasih bunga maka jangan salahin aku tiap hari ada bunga di depan rumah",
+            "Tapi aku  penasaran, kenapa kamu bisa lebih cantik dari bunga?"
+          ]
+        ],
+        "answer": ["Oppa bisa saja aku kan jadi malu", "karna gen ibuku oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Kamu emang lebih cantik dari bunga",
+            "Kalau kita pergi ke taman bunga, kamu bakal pakai baju warna apa?",
+            "Soalnya aku kepikiran buat bawain bunga yang senada"
+          ],
+          [
+            "Harusnya aku berterimakasih sama ibumu",
+            "Kalau kita pergi ke taman bunga, kamu bakal pakai baju warna apa?",
+            "Soalnya aku kepikiran buat bawain bunga yang senada,"
+          ]
+        ],
+        "answer": [
+          "Aku kayanya pakai baju warna merah oppa",
+          "mungkin aku pakai baju warna pink"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Bagus sekali aku harus bawain mawar merah yang paling bagus",
+            "Nanti kalau di taman bunga aku bawa kamera ya ",
+            "Soalnya aku harus tunjukin ke ibuku"
+          ],
+          [
+            "Wah, aku baru kepikiran beliin tulip warna pink",
+            "Nanti kalau di taman bunga aku bawa kamera ya ",
+            "Soalnya aku harus tunjukin ke ibuku"
+          ]
+        ],
+        "answer": ["Boleh dong oppa", "Yaudah nanti aku bantu fotoin oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Nanti aku fotoin kamu ya",
+            "Soalnya sayang banget kalau gak di foto.",
+            "Nanti aku tunjukin ibuku ",
+            "Biar ibuku bisa lihat kalau calon menantunya lebih cantik dari bunga",
+            "Tapi tetep harus izin ke kamu dulu, boleh apa gak motret kamu?"
+          ],
+          [
+            "Kok kamu yang fotoin aku",
+            "Nanti aku yang fotoin kamu",
+            "Soalnya sayang banget kalau gak di foto.",
+            "Nanti aku tunjukin ibuku ",
+            "Biar ibuku bisa lihat kalau calon menantunya lebih cantik dari bunga",
+            "Tapi tetep harus izin dulu sama kamu, boleh apa gak motret kamu?"
+          ]
+        ],
+        "answer": [
+          "Kalau gitu dengan senang hati oppa ",
+          "Oppa aku sudah siap pergi ke taman bunga hehe"
+        ]
+      }
     ],
-    "answer": [
-      "Tentu saja! Oppa, tolong jaga kesehatan ya, jangan sampai sakit! Jangan terlalu memaksakan diri. Kami selalu di sini mendukung Oppa!",
-      "Oppa! Aku ingin sekali ikut tur konser dunia Oppa! Atau kalau santai, aku mau piknik di taman yang tenang sambil ngobrol."
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Tur dunia bersamamu? Itu ide yang bagus, semoga terwujud.",
-        "Aku akan bekerja keras untuk mewujudkannya.",
-        "Sayangnya, sebentar lagi aku harus kembali latihan, tapi senang sekali bisa bicara denganmu."
-      ],
-      [
-        "Piknik di taman yang tenang kedengarannya sangat damai.",
-        "Aku akan ingat ide itu. Wah, waktu cepat berlalu ya?",
-        "Aku harus melanjutkan jadwalku, terima kasih banyak sudah menemaniku."
-      ]
+    [
+      {
+        "ask": [["yn", "Kamu suka es krim gak sih?", ""]],
+        "answer": ["suka banget oppa", "kurang begitu suka oppa"]
+      },
+      {
+        "ask": [
+          [
+            "mau gak beli es krim sore ini? ",
+            "Aku tiba-tiba pengen ngajak kamu makan es krim"
+          ],
+          [
+            "kenapa gak suka ice cream?",
+            " padahal pengen ngajak kamu makan es krim sore ini"
+          ]
+        ],
+        "answer": [
+          "mau banget makan es krim sama oppa, tapi aku pilih rasanya ya oppa",
+          "ayo oppa, asal sama oppa aku jadi suka es krim."
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku akan menjemputmu sore ini ",
+            "Rasa apa favorit kamu?",
+            "Aku tebak… Vanilla?."
+          ],
+          [
+            "Aku akan menjemputmu sore ini ",
+            "Rasa apa favorit kamu?",
+            "Aku tebak… Dark choco?."
+          ]
+        ],
+        "answer": ["Wah kok tau sih oppa ", "Bener banget oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Soalnya kamu manis banget kaya Vanilla",
+            "Dan aku suka perhatikan cerita kamu",
+            "Kamu suka vanilla dan sedikit toping",
+            "Kamu suka topping warna apa? "
+          ],
+          [
+            "Soalnya kamu udah manis jadi kalau makan manis lagi ga baik buat kesehatan",
+            "juga aku sering dengar cerita kamu",
+            "kamu orangnya ga suka manis dan suka sedikit pahit tapi tetap ada topingnya",
+            "Kamu suka topping warna apa?"
+          ]
+        ],
+        "answer": [
+          "Toping warna warni oppa",
+          "Warna apa aja oppa aku lebih suka toping buah oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Emang kamu cocok banget sama warna warni",
+            "Soalnya kamu memang mewarnai hariku ",
+            "Tapi jujur kamu lebih manis dari es krim"
+          ],
+          [
+            "Sama aku juga suka toping buah warna warni",
+            "Cocok sama kamu yang selalu mewarnai hariku",
+            "Tapi jujur kamu lebih manis dari es krim"
+          ]
+        ],
+        "answer": ["Oppa ih aku jadi malu", "Oppa bisa aja"]
+      },
+      {
+        "ask": [
+          [
+            "Tapi beneran aku gugup ngajak kamu makan di toko es krim",
+            "Soalnya nanti takut es krim ku meleleh",
+            "Tapi kamu harus tanggung jawab ya kalau es krimku meleleh"
+          ],
+          [
+            "Tapi beneran aku gugup ngajak kamu makan di toko es krim",
+            "Soalnya nanti takut es krim ku meleleh",
+            "Tapi kamu harus tanggung jawab ya kalau es krimku meleleh"
+          ]
+        ],
+        "answer": ["Kenapa es krimnya meleleh?", "Kok aku yang tanggung jawab"]
+      },
+      {
+        "ask": [
+          [
+            "Soalnya kalau kamu senyum",
+            "Aku langsung lupa es krimnya.",
+            "Takutnya kamu senyum terus",
+            "Malah gak kemakan es krim nya soalnya fokus ke senyummu ",
+            "Jadinya kamu harus tanggung jawab ya"
+          ],
+          [
+            "Iya kamu harus tanggung jawab",
+            "Soalnya kalau kamu senyum",
+            "Aku langsung lupa es krimnya.",
+            "Takutnya kamu senyum terus",
+            "Malah gak kemakan es krim nya soalnya fokus ke senyummu "
+          ]
+        ],
+        "answer": [
+          "Cukup oppa, oppa terlalu manis buatku",
+          "Asal sama oppa tanggung jawab bukan masalah besar buatku"
+        ]
+      }
     ],
-    "answer": [
-      "Oke, Oppa! Semangat latihannya! Aku juga senang banget bisa 'ngobrol' sama Oppa, meskipun sebentar. Jaga diri ya!",
-      "Iya, Oppa, semangat kerjanya! Harusnya aku yang terima kasih karena Oppa mau 'ngobrol'. Oppa juga jaga kesehatan ya!"
-    ]
-  },
-  {
-    "ask": [
-      [
-        "Kamu juga, jaga kesehatan baik-baik.",
-        "Aku tidak akan melupakan percakapan kita hari ini, yn.",
-        "Sampai jumpa lagi!"
-      ],
-      [
-        "Tentu saja. Aku akan menghargai setiap kata yang kamu ucapkan.",
-        "Sampai ketemu lagi, yn. Semoga harimu makin cerah setelah ini!"
-      ]
+    [
+      {
+        "ask": [["yn", "Di luar lagi hujan, kamu suka hujan nggak?", ""]],
+        "answer": [
+          "Suka banget oppa, rasanya adem dan tenang",
+          "Nggak begitu suka oppa, tapi kalau hujan hujan sama oppa boleh deh"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kalau aku bawain cokelat panas ke rumah kamu, mau nggak?",
+            "Soalnya cuaca kayak gini paling enak minum yang hangat bareng-bareng"
+          ],
+          [
+            "Kalau aku bawain cokelat panas ke rumah kamu, mau nggak?",
+            "Soalnya cuaca kayak gini paling enak minum yang hangat bareng-bareng"
+          ]
+        ],
+        "answer": [
+          "Mau banget oppa, aku tunggu cokelat panasnya",
+          "biar aku yang bikinin cokelat panasnya, oppa saja yang kerumahku"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku bawain cookies juga ya",
+            "Kamu suka yang lembut atau yang renyah?",
+            "Aku tebak... yang renyah?"
+          ],
+          [
+            "Oke, aku berangkat ke rumahmu",
+            "Aku bawain cookies juga ya",
+            "Kamu suka yang lembut atau yang renyah?",
+            "Aku tebak... yang lembut?"
+          ]
+        ],
+        "answer": ["Bener banget oppa", "Kok oppa tau sih?"]
+      },
+      {
+        "ask": [
+          [
+            "Soalnya kamu keliatan tipe yang suka cookies yang renyah tapi gak manis",
+            "Cocok banget, soalnya kamu juga gak perlu banyak gula buat jadi manis",
+            "Oh iya sekalian mau aku bawain selimut juga?"
+          ],
+          [
+            "Aku inget kamu pernah bilang suka hal-hal yang lembut",
+            "Kayak boneka, atau... mungkin selimut?",
+            "Mau aku bawain selimut juga?"
+          ]
+        ],
+        "answer": [
+          "Bawain selimut juga oppa",
+          "Coklat panas sambil pake selimut kayaknya romantis banget"
+        ]
+      },
+      {
+        "ask": [
+          ["Deal, aku bawain", "Kamu mau selimut warna apa?"],
+          ["Wah gak sabar sekali", "Kamu mau selimut warna apa?"]
+        ],
+        "answer": ["Warna Kuning oppa", "Warna hitam oppa"]
+      },
+      {
+        "ask": [
+          [
+            "Wah sayang sekali aku gak punya selimut warna kuning ",
+            "Tapi demi kamu nanti aku mampir beli dulu",
+            "Kamu mau nunggu aku kan?"
+          ],
+          [
+            "Wah kamu tau banget, selimutku cuma warna hitam dan putih",
+            "Aku cari dulu ya",
+            "Kamu mau nunggu aku kan?"
+          ]
+        ],
+        "answer": ["Mau oppa", "Cepat ya oppa, aku ga sabar mau makan cookies"]
+      },
+      {
+        "ask": [
+          [
+            "Kalau gitu, aku siap siap dulu ya",
+            "Soalnya mau ketemu sama cewek tercantik sedunia",
+            "Meskipun hujan, akan tetap ku terjang"
+          ],
+          [
+            "Kalau gitu, aku siap siap dulu ya",
+            "Soalnya mau ketemu sama cewek tercantik sedunia",
+            "Meskipun hujan, akan tetap ku terjang"
+          ]
+        ],
+        "answer": [
+          "Iya oppa, aku akan menunggumu",
+          "Baiklah oppa hati hati di jalan"
+        ]
+      }
     ],
-    "answer": [
-      "Pasti, Oppa! Aku gak akan pernah lupa! Sampai ketemu di mimpiku nanti malam! *Bye-bye*!",
-      "Oppa juga! Hariku otomatis jadi cerah setelah ngobrol sama Oppa! Sampai jumpa!"
+    [
+      {
+        "ask": [
+          ["yn", "Kamu masih inget toko buku kecil di pojokan jalan itu?", ""]
+        ],
+        "answer": [
+          "Inget banget oppa, tempatnya cozy banget",
+          "Iya oppa, aku suka banget tempat itu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku lewat sana tadi siang, wangi buku barunya masih sama",
+            "Jadi keinget kamu, waktu kamu sibuk nyari novel yang kamu suka"
+          ],
+          [
+            "Aku tadi mampir ke sana bentar",
+            "Jadi keinget kamu, waktu kamu sibuk nyari novel yang kamu suka"
+          ]
+        ],
+        "answer": [
+          "Oppa inget aja hal kecil kayak gitu",
+          "Wah, beneran oppa masih ingat?"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Masih dong",
+            "Aku hampir beli buat kamu tapi takut kamu udah punya",
+            "Kamu udah beli belum?"
+          ],
+          [
+            "Aku liat novelnya ternyata emang yang kamu pengen itu",
+            "Aku hampir beli buat kamu tapi takut kamu udah punya",
+            "Kamu udah beli belum?"
+          ]
+        ],
+        "answer": [
+          "Belum oppa, aku gak tau kalau sudah restok hehe",
+          "Sudah punya oppa, tapi aku seneng kamu inget"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Berarti aku harus balik kesana lagi ya",
+            "Tapi kali ini kamu harus ikut",
+            "Biar kita bisa baca bareng di pojok tempat duduk yang dulu"
+          ],
+          [
+            "Aku jadi pengen ngajak kamu ke sana",
+            "Kita bisa duduk bareng, baca buku, terus ngobrol pelan-pelan kayak dulu"
+          ]
+        ],
+        "answer": [
+          "Mau banget oppa, aku udah kangen suasananya",
+          "Ayo oppa, tapi aku pilih buku buat kita ya"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal, tapi jangan pilih buku yang bikin aku ngantuk ya",
+            "Soalnya aku pengen fokus denger kamu baca",
+            "Kamu selalu kedengaran tenang waktu baca"
+          ],
+          [
+            "Oke tapi nanti kamu yang bacain buat aku ya",
+            "Suara kamu waktu baca tuh bikin tenang banget"
+          ]
+        ],
+        "answer": [
+          "Oke oppa, aku bakal bacain buku yang bagus",
+          "Kalau gitu aku bakal bacain pelan-pelan biar oppa ngantuk terus hehe"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kamu tau gak, waktu kamu baca, aku malah lebih fokus ke kamu daripada bukunya",
+            "Kayaknya semua kata jadi terdengar lebih indah karena keluar dari mulutmu"
+          ],
+          [
+            "Aku gak bohong, waktu kamu baca aja aku bisa lupa halaman berapa",
+            "Soalnya mataku malah sibuk liat kamu"
+          ]
+        ],
+        "answer": [
+          "Oppa jangan ngomong kayak gitu, aku bisa deg-degan",
+          "Oppa, nanti aku gak bisa fokus bacanya loh"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Gapapa, yang penting aku bisa ngeliat kamu senyum di antara rak buku itu lagi",
+            "Aku bakal beliin buku itu, dan tulis di dalamnya",
+            "‘Untuk kamu, yang selalu bikin halaman hidupku terasa hangat’"
+          ],
+          [
+            "Gapapa, yang penting aku bisa ngeliat kamu senyum di antara rak buku itu lagi",
+            "Aku bakal beliin buku itu, dan tulis di dalamnya",
+            "‘Untuk kamu, yang selalu bikin halaman hidupku terasa hangat’"
+          ]
+        ],
+        "answer": [
+          "Oppa, itu kalimat paling manis yang pernah aku denger",
+          "Kalau gitu, setiap kali aku baca buku itu, aku bakal inget oppa"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [
+          ["yn", "Kamu masih rawat tanaman kecil yang aku kasih waktu itu?", ""]
+        ],
+        "answer": [
+          "Masih dong oppa, tumbuhnya udah tinggi sekarang",
+          "Iya oppa, aku rawat setiap pagi"
+        ]
+      },
+      {
+        "ask": [
+          ["Serius? Wah aku bangga banget", "Kamu nyiramnya tiap hari ya?"],
+          [
+            "Aku gak nyangka bisa tumbuh subur di tangan kamu",
+            "Pasti kamu rajin banget rawatnya"
+          ]
+        ],
+        "answer": [
+          "Iya oppa, tiap pagi sebelum matahari tinggi",
+          "Hehe aku siram sambil inget waktu oppa kasih itu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku jadi pengen lihat deh",
+            "Mungkin lain kali aku main ya, biar bantu kamu siram tanamannya",
+            "Tapi jangan salahin aku kalau nanti aku malah sibuk liatin kamu"
+          ],
+          [
+            "Aku penasaran, daun-daunnya udah rimbun belum?",
+            "Mungkin lain kali aku main ya, biar bantu kamu siram tanamannya",
+            "Tapi jangan salahin aku kalau nanti aku malah sibuk liatin kamu"
+          ]
+        ],
+        "answer": [
+          "Boleh banget oppa, nanti aku siapin alat kebunnya",
+          "Oppa ih, malah liatin aku bukan tanamannya"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Yaudah hari minggu nanti aku kesana ya",
+            "kamu  kok bisalebih cantik dari bunga di pot itu",
+            "Tapi aku pengen tau, kamu lebih suka bunga warna apa?",
+            "Biar nanti aku beliin bibitnya buat kita tanam bareng"
+          ],
+          [
+            "Soalnya kamu lebih cantik dari bunga di pot itu",
+            "Tapi aku pengen tau, kamu lebih suka bunga warna apa?",
+            "Biar nanti aku beliin bibitnya buat kita tanam bareng"
+          ]
+        ],
+        "answer": [
+          "Aku suka bunga warna putih oppa, kelihatan tenang",
+          "Mau bunga apa aja, asal nanamnya bareng oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kalau gitu nanti aku bawain bunga daisy ya",
+            "Soalnya katanya daisy itu simbol kesetiaan",
+            "Cocok buat kita"
+          ],
+          [
+            "Aku juga suka mawar warna putih",
+            "Soalnya dia kayak kamu, sederhana tapi selalu bikin tenang"
+          ]
+        ],
+        "answer": [
+          "Oppa ngomongnya manis banget",
+          "Oppa, nanti bunga kita pasti tumbuh indah banget"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aku yakin bunganya tumbuh dengan indah , soalnya kamu yang rawat",
+            "Kamu pasti seneng banget liat bunga itu tumbuh",
+            "Tapi jujur aku lebih suka liat kamu yang tersenyum di depannya"
+          ],
+          [
+            "Kamu pasti seneng banget liat bunga itu tumbuh",
+            "Tapi jujur aku lebih suka liat kamu yang tersenyum di depannya"
+          ]
+        ],
+        "answer": [
+          "Oppa ih, ngomongnya bisa aja",
+          "Kalau oppa yang nyiramin bunganya pasti tumbuh subur"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Nanti kalau bunga kita mekar, aku mau kasih nama",
+            "Namanya ‘Kita’"
+          ],
+          [
+            "Deal, aku bakal nyiramin bunga kita  tiap hari",
+            "Nanti kalau bunga kita mekar, aku mau kasih nama",
+            "Namanya ‘Kita’"
+          ]
+        ],
+        "answer": [
+          "Namanya lucu banget oppa, aku suka",
+          "Oppa, mulai sekarang aku mau berkebun tiap hari bareng oppa"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "Kamu pernah masak bareng seseorang gak?", ""]],
+        "answer": [
+          "Belum pernah oppa, aku biasanya masak sendirian",
+          "Pernah sih, tapi gak seseru kalau bareng oppa hehe"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Hehe kamu mau gak masak bareng aku?",
+            "Aku pengen lihat kamu masak di dapur"
+          ],
+          ["Kira-kira kita masak apa ya enaknya?"]
+        ],
+        "answer": [
+          "Mau banget oppa! Masak yang simple aja oppa",
+          "Boleh oppa, aku pengen coba masak bareng kamu"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Nasi goreng boleh tuh, tapi jangan yang pedes ya, nanti kamu kepedesan",
+            "Aku bantu ngaduk deh, biar kamu gak capek"
+          ],
+          [
+            "Nasi goreng boleh tuh, tapi jangan yang pedes ya, nanti kamu kepedesan",
+            "Aku bantu ngaduk deh, biar kamu gak capek"
+          ]
+        ],
+        "answer": [
+          "Hihi aku kuat kok makan pedes dikit",
+          "Oppa ih, kalau nasi goreng nanti aku juga mau suapin oppa balik ya"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal ya, tapi jangan rebutan spatula",
+            "Soalnya kalau kamu sibuk masak, aku bisa liatin kamu dari samping"
+          ],
+          [
+            "Kamu kelihatan fokus banget tiap masak, gemes liatnya",
+            "Tapi jangan senyum nanti aku gak fokus"
+          ]
+        ],
+        "answer": [
+          "Oppa, masak jangan godain dong nanti gak enak 😆",
+          "Hehe kalau oppa liatin terus aku malah deg-degan"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kalau gak enak gak apa, yang penting kita masaknya bareng",
+            "Lagipula, katanya masakan bareng orang yang disayang rasanya selalu enak"
+          ],
+          [
+            "Aku bantu cicipin ya, biar aku tahu seberapa enaknya hasil masakan kamu",
+            "Kalau gak enak gak apa, yang penting kita masaknya bareng",
+            "Lagipula, katanya masakan bareng orang yang disayang rasanya selalu enak"
+          ]
+        ],
+        "answer": [
+          "Oppa gombal lagi",
+          "Kalau gitu kamu yang cicip dulu, nanti aku perbaiki kalau kurang pas"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kamu tau gak, aku suka momen masak bareng",
+            "Sederhana tapi bikin hangat"
+          ],
+          [
+            "Pasti rasanya udah pas banget",
+            "Kayak kamu, gak kurang gak lebih",
+            "Kamu tau gak, aku suka momen masak bareng",
+            "Sederhana tapi bikin hangat"
+          ]
+        ],
+        "answer": [
+          "Oppa bisa aja ngomongnya 🥺",
+          "Iya oppa, masak bareng tuh rasanya damai banget"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Nanti kalau udah matang, kita makan bareng ya",
+            "Aku mau duduk deket kamu, sambil denger kamu cerita"
+          ],
+          [
+            "Nanti kalau udah matang, kita makan bareng ya",
+            "Aku mau duduk deket kamu, sambil denger kamu cerita",
+            "Habis makan, aku bantu beresin dapur juga",
+            "Soalnya aku gak mau ninggalin kamu sendirian di dapur"
+          ]
+        ],
+        "answer": ["Ih sweet banget oppa 😳", "Janji ya oppa aku jadi ga sabar"]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "Kamu suka hewan gak sih?", ""]],
+        "answer": [
+          "Suka banget oppa, apalagi kucing 🐱",
+          "Aku suka semua hewan yang imut, kayak anjing kecil 🐶"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kalau gitu weekend ini mau gak aku ajak ke petshop?",
+            "Aku liat ada tempat lucu banget, banyak anak hewan di sana"
+          ],
+          [
+            "Kalau gitu weekend ini mau gak aku ajak ke petshop?",
+            "Aku liat ada tempat lucu banget, banyak anak hewan di sana"
+          ]
+        ],
+        "answer": [
+          "Mau oppa! Aku udah lama pengen ke petshop 😍",
+          "Boleh banget oppa, tapi jangan rebutan ya😆"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Aduh kamu pasti lebih lucu",
+            "Nanti aku bantu pilih yang paling lucu buat kamu",
+            "Biar tiap lihat dia kamu inget aku"
+          ],
+          [
+            "Nanti aku bantu pilih yang paling lucu buat kamu",
+            "Biar tiap lihat dia kamu inget aku"
+          ]
+        ],
+        "answer": [
+          "Oppa ih, kok jadi gitu sih 😳",
+          "Kalau gitu aku mau yang mirip oppa yang lucu 😝"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Wah, berarti harus cari yang paling manis ya",
+            "Kayak kamu waktu senyum"
+          ],
+          [
+            "Kalau kamu bilang aku lucu rasanya dunia langsung slow motion deh",
+            "Kalau begitu kitai harus cari yang paling manis ya",
+            "Kayak kamu waktu senyum"
+          ]
+        ],
+        "answer": [
+          "Oppa lebay 😆 tapi aku seneng dengernya",
+          "Ya ampun oppa, jangan gitu nanti aku senyum terus"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Gak apa, aku emang suka liat kamu senyum",
+            "Aku jadi kepikiran, kamu bakal jadi pemilik yang penyayang banget"
+          ],
+          ["Aku jadi kepikiran, kamu bakal jadi pemilik yang penyayang banget"]
+        ],
+        "answer": [
+          "Hehe aku emang sayang banget sama hewan, kayaknya aku bakal rawat dia baik-baik",
+          "Kamu juga pasti cocok punya peliharaan deh oppa"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Mungkin nanti kita bisa rawat satu bareng ya?",
+            "Namainnya pakai nama yang punya arti buat kita berdua",
+            "Aku udah kebayang, tiap sore kita main bareng hewan kecil kita di taman"
+          ],
+          [
+            "Mungkin nanti kita bisa rawat satu bareng ya?",
+            "Aku udah kebayang, tiap sore kita main bareng hewan kecil kita di taman"
+          ]
+        ],
+        "answer": [
+          "Wahh lucu banget kedengarannya 🥺",
+          "Aku setuju oppa, asal kamu yang ajarin cara rawatnya ya"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Deal! Tapi dengan satu syarat",
+            "Kamu harus sering main ke rumahku buat bantu ngasih makan dia",
+            "Biar aku punya alasan buat ketemu kamu terus"
+          ],
+          ["Biar aku punya alasan buat ketemu kamu terus"]
+        ],
+        "answer": [
+          "Oppa bisa aja 😳",
+          "Kalau alasannya itu... aku gak akan nolak kok oppa 🥰"
+        ]
+      }
+    ],
+    [
+      {
+        "ask": [["yn", "Kamu suka nonton film romantis gak sih?", ""]],
+        "answer": [
+          "Suka banget oppa, aku suka yang endingnya bahagia",
+          "Aku suka nonton film romantis, tapi kadang suka sedih juga sih"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Kalau gitu weekend ini mau gak aku ajak nonton film romantis di bioskop?",
+            "Aku udah lama pengen nonton bareng kamu"
+          ],
+          [
+            "Kalau gitu weekend ini mau gak aku ajak nonton film romantis di bioskop?",
+            "Aku udah lama pengen nonton bareng kamu"
+          ]
+        ],
+        "answer": [
+          "Mau oppa! Aku udah kangen nonton di bioskop",
+          "Boleh banget oppa, asal jangan takut aku nangis ya hehe"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Tenang aja, aku bawa tisu kok",
+            "Nanti aku peluk kamu biar kamu gak sedih"
+          ],
+          [
+            "Tenang aja, aku bawa tisu kok",
+            "Nanti aku peluk kamu biar kamu gak sedih"
+          ]
+        ],
+        "answer": [
+          "Oppa ih, kok jadi gitu sih 😳",
+          "Hehe kalau oppa peluk aku pasti aku malah makin sedih deh"
+        ]
+      },
+      {
+        "ask": [
+          [
+            "Gak apa, aku emang suka liat kamu sedih",
+            "Aku jadi kepikiran, kamu bakal jadi cewek yang manis banget"
+          ],
+          ["Aku jadi kepikiran, kamu bakal jadi cewek yang manis banget"]
+        ],
+        "answer": [
+          "Hehe makasih oppa, kamu juga pasti jadi cowok yang manis banget",
+          "Kalau gitu kita cocok banget ya"
+        ]
+      }
     ]
-  }
-]
   ]
 }
