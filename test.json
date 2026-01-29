@@ -23,9 +23,7 @@
   "interstitial_inverval": 3,
 
   "list_ads": [
-      "YANDEX",
-      "ADMOB",
-      "UNITY"
+      "YANDEX"
   ],
   
   "unity_id": "4828560",
