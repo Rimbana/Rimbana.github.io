@@ -8,7 +8,7 @@
   "init_jumlah_photo": 950,
   "admob_banner_id": "ca-app-pub-4463463911232315/8553494978",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/4448961952",
-  "admob_native_id": "",
+  "admob_native_id": "ca-app-pub-4463463911232315/1573760795",
   "admob_rewarded_interstitial_id": "",
   "admob_open_app_id": "ca-app-pub-4463463911232315/6883553602",
 
@@ -23,11 +23,16 @@
   "interstitial_inverval": 5,
 
   "list_ads": [
-      "ADMOB"
+      "ADMOB",
+      "UNITY"
   ],
   
   "unity_id": "4828560",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android"
-
+  "_comment_yandex": "Yandex Ads - Banner, Interstitial, App Open (untuk pasar Rusia)",
+  "yandex_banner_id": "R-M-18582304-1",
+  "yandex_interstitial_id": "R-M-18582304-3",
+  "yandex_open_app_id": "R-M-18582304-4",
+  "yandex_native_id": "R-M-18582304-2"
 }
