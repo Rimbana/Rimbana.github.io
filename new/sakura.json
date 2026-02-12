@@ -4,11 +4,10 @@
   "section_mode": true,
   "album": [
     "sakura",
-    "boy",
-    "group"
+    "cool"
   ],
 
-  "init_jumlah_photo": 250,
+  "init_jumlah_photo": 500,
   "admob_banner_id": "ca-app-pub-4463463911232315/2412735218",
   "admob_interstitial_id": "ca-app-pub-4463463911232315/5310878217",
   "admob_native_id": "ca-app-pub-4463463911232315/5111241622",
