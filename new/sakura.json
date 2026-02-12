@@ -27,11 +27,11 @@
 
   "list_ads": [
     "ADMOB",
-    "YANDEX",
-    "UNITY"
+    "UNITY",
+    "YANDEX"
   ],
 
-  "unity_id": "4828560",
+  "unity_id": "6027127",
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
