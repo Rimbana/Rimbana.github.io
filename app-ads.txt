@@ -1,5 +1,6 @@
 google.com, pub-4463463911232315, DIRECT, f08c47fec0942fa0
 google.com, pub-7158609722408276, DIRECT, f08c47fec0942fa0
+https://q5i7.ads-txt.site
 e-planning.net, 2f3a04630ba9ba3f, RESELLER, c1ba615865ed87b2
 pubmatic.com, 165157, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 27842, RESELLER, 0bfd66d529a55807
